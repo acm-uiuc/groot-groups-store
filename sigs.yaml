@@ -66,9 +66,9 @@
   meetingTime: '19:00'
   meetingDay: Thursday
   meetingLoc: Siebel 1131
-  site: 'http://uiuc.siggraph.org/'
+  site: 'http://illinois.siggraph.org/'
   members: []
-  email: 'SIGGRAPH-Announce@acm.uiuc.edu'
+  email: 'SIGGRAPH-Announce@acm.illinois.edu'
   
 - name: ADSA
   description: Association of Data Science and Analytics
@@ -78,7 +78,7 @@
   meetingLoc: ''
   site: ''
   members: []
-  email: 'SIGMis-l@acm.uiuc.edu'
+  email: 'SIGMis-l@acm.illinois.edu'
   
 - name: SIGMobile
   description: Special Interst Group for Mobile Development
@@ -86,9 +86,9 @@
   meetingTime: '18:00'
   meetingDay: Sunday
   meetingLoc: Siebel 1109
-  site: ' http://github.com/sigmobileuiuc'
+  site: ' http://github.com/sigmobileillinois'
   members: []
-  email: 'SIGMobile-l@acm.uiuc.edu'
+  email: 'SIGMobile-l@acm.illinois.edu'
   
 - name: SIGMusic
   description: Special Interest Group for Music
@@ -96,9 +96,9 @@
   meetingTime: '20:00'
   meetingDay: Wednesday
   meetingLoc: Siebel 1105
-  site: 'http://www.acm.uiuc.edu/sigmusic'
+  site: 'http://www.acm.illinois.edu/sigmusic'
   members: []
-  email: 'SIGMusic-l@acm.uiuc.edu'
+  email: 'SIGMusic-l@acm.illinois.edu'
   
 - name: SIGOps
   description: Special Interest Group for Operating Systems
@@ -106,9 +106,9 @@
   meetingTime: '19:00'
   meetingDay: Wednesday
   meetingLoc: Siebel 4405
-  site: 'http://www.acm.uiuc.edu/sigops/'
+  site: 'http://www.acm.illinois.edu/sigops/'
   members: []
-  email: 'SIGOps-l@acm.uiuc.edu'
+  email: 'SIGOps-l@acm.illinois.edu'
   
 - name: SIGPlan
   description: Special Interest Group for Programming Languages
@@ -118,7 +118,7 @@
   meetingLoc: Siebel 2407
   site: 'http://category.engineering/'
   members: []
-  email: 'SIGPLAN-l@acm.uiuc.edu'
+  email: 'SIGPLAN-l@acm.illinois.edu'
   
 - name: SIGPwny
   description: Special Interest Group for Security
@@ -126,9 +126,9 @@
   meetingTime: '17:00'
   meetingDay: Thursday
   meetingLoc: Siebel 3405
-  site: 'http://www.acm.uiuc.edu/sigpwny'
+  site: 'http://www.acm.illinois.edu/sigpwny'
   members: []
-  email: 'SIGPony-l@acm.uiuc.edu'
+  email: 'SIGPony-l@acm.illinois.edu'
   
 - name: WebMonkeys
   description: Special Interest Group for Web Development
@@ -136,9 +136,9 @@
   meetingTime: '18:00'
   meetingDay: Tuesday
   meetingLoc: Siebel 1214
-  site: 'http://www.acm.uiuc.edu/webmonkeys'
+  site: 'http://www.acm.illinois.edu/webmonkeys'
   members: []
-  email: 'Webmonkeys-l@acm.uiuc.edu'
+  email: 'Webmonkeys-l@acm.illinois.edu'
 
 - name: IlliniHackers
   description: Special Interest Group for Hackathons
