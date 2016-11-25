@@ -2,7 +2,7 @@
 - name: Gamebuilders
   description: Anything and everything related to game development
   Chairs: Victor Mouschovias
-  meetingTime: '19:00'
+  meetingTime: '7:00 PM'
   meetingDay: Monday
   meetingLoc: Siebel 3403
   site: http://www.acm.illinois.edu/gamebuilders/
@@ -13,7 +13,7 @@
   description: Facilitate the development of contest programming skills, with the
     goal of producing highly competitive teams in the prestigious ACM ICPC competition.
   chairs: Arthur Li, Matthew Worley
-  meetingTime: '19:00'
+  meetingTime: '7:00 PM'
   meetingDay: Monday
   meetingLoc: Siebel 0218
   site: " http://icpc.cs.illinois.edu/"
@@ -33,7 +33,7 @@
 - name: SIGNature
   description: To pursue biological computing and cybernetics.
   chairs: Kyle Herndon
-  meetingTime: '13:00'
+  meetingTime: '1:00 PM'
   meetingDay: Wednesday
   meetingLoc: Siebel 1106
   site: ''
@@ -43,7 +43,7 @@
 - name: SIGBot
   description: Special Interest Group for Robotics
   chairs: Rauhul Varma, Naren Dasan
-  meetingTime: '15:00'
+  meetingTime: '3:00 PM'
   meetingDay: Friday
   meetingLoc: Siebel 1110
   site: http://www.acm.illinois.edu/sigbot/
@@ -53,7 +53,7 @@
 - name: SIGCHI
   description: Special Interest Group for Human-Computer Interaction.
   chairs: Andrew Kuznetsov
-  meetingTime: '17:00'
+  meetingTime: '5:00 PM'
   meetingDay: Wednesday
   meetingLoc: Siebel 1302
   site: http://www.acm.illinois.edu/sigchi
@@ -63,7 +63,7 @@
 - name: SIGGRAPH
   description: Special Interest Group for Graphics
   chairs: Chengyang Weng
-  meetingTime: '19:00'
+  meetingTime: '7:00 PM'
   meetingDay: Thursday
   meetingLoc: Siebel 1131
   site: 'http://illinois.siggraph.org/'
@@ -83,7 +83,7 @@
 - name: SIGMobile
   description: Special Interst Group for Mobile Development
   chairs: Rohan Mathur
-  meetingTime: '18:00'
+  meetingTime: '6:00 PM'
   meetingDay: Sunday
   meetingLoc: Siebel 1109
   site: ' http://github.com/sigmobileillinois'
@@ -93,7 +93,7 @@
 - name: SIGMusic
   description: Special Interest Group for Music
   chairs: Berwin Xie
-  meetingTime: '20:00'
+  meetingTime: '8:00 PM'
   meetingDay: Wednesday
   meetingLoc: Siebel 1105
   site: 'http://www.acm.illinois.edu/sigmusic'
@@ -103,7 +103,7 @@
 - name: SIGOps
   description: Special Interest Group for Operating Systems
   chairs: Tanishq Dubey
-  meetingTime: '19:00'
+  meetingTime: '7:00 PM'
   meetingDay: Wednesday
   meetingLoc: Siebel 4405
   site: 'http://www.acm.illinois.edu/sigops/'
@@ -113,7 +113,7 @@
 - name: SIGPlan
   description: Special Interest Group for Programming Languages
   chairs: Remy Goldschmidt
-  meetingTime: '15:00'
+  meetingTime: '3:00 PM'
   meetingDay: Sunday
   meetingLoc: Siebel 2407
   site: 'http://category.engineering/'
@@ -123,7 +123,7 @@
 - name: SIGPwny
   description: Special Interest Group for Security
   chairs: Alex Mitsdarfer
-  meetingTime: '17:00'
+  meetingTime: '5:00 PM' 
   meetingDay: Thursday
   meetingLoc: Siebel 3405
   site: 'http://www.acm.illinois.edu/sigpwny'
@@ -133,7 +133,7 @@
 - name: WebMonkeys
   description: Special Interest Group for Web Development
   chairs: Sujay Khandekar
-  meetingTime: '18:00'
+  meetingTime: '6:00 PM'
   meetingDay: Tuesday
   meetingLoc: Siebel 1214
   site: 'http://www.acm.illinois.edu/webmonkeys'
@@ -143,7 +143,7 @@
 - name: IlliniHackers
   description: Special Interest Group for Hackathons
   chairs: Yasha Mostofi, Arnav Mishra
-  meetingTime: '19:00'
+  meetingTime: '7:30 PM'
   meetingDay: Thursday
   meetingLoc: Siebel 1214
   site: 'illinihackers.org'

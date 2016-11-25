@@ -1,4 +1,24 @@
 ---
+- name: Top4
+  description: The leadership team for ACM
+  chairs: Naren Dasan
+  members: [Naren Dasan, Sathvika Ashokkumar, Tommy Yu, Alec Kochevar-Cureton]
+  netids: [sivagna2, ashokku2, tjyu3, kocheva2]  
+  email: acm@illinois.edu
+  roles:
+  - name: Chair
+    holder: Naren Dasan
+    email: acm@illinois.edu
+  - name: Vice-Chair
+    holder: Sathvika Ashokkumar
+    email: vice-chair@acm.illinois.edu
+  - name: Treasurer
+    holder: Tommy Yu
+    email: treasurer@acm.illinois.edu
+  - name: Secretary
+    holder: Alec Kochevar-Cureton
+    email: secretary@acm.illinois.edu   
+
 - name: Admin
   description: The ACM Administration Team is the committee responsible for the establishment and maintenance of ACM resources, service and support to the ACM users, and coordination and communication between ACM and campus technology management groups such as Engineering IT and Technology Services.
   chairs: Eric Ahn
@@ -16,9 +36,16 @@
 - name: Events
   description: The Events committee organizes all ACM events, including Reflections | Projections and HackIllinois.
   chairs: To Be Appointed
-  members: [Sujay Khandekar, Vaibhav Pahwa, Arnav Mishra]
-  netids: [khandek2, vpahwa2, agmishr2]
-  email: Conference@acm.illinois.edu
+  members: [Shivali Patel, Tori Becú, Arnav Mishra]
+  netids: [supatel2, FILL IN HERE, agmishr2]
+  email: Events-l@acm.illinois.edu
+  roles: 
+  - name: Director of HackIllinois
+    holder: Arnav Mishra
+    email: contact@hackillinois.org
+  - name: Chairs of Reflections|Projections
+    holder: Shivali Patel, Tori Becú
+    email: Conference@acm.illinois.edu 
 
 - name: Projects
   description: Projects
