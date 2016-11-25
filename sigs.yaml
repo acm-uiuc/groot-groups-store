@@ -1,7 +1,7 @@
 ---
 - name: Gamebuilders
   description: Anything and everything related to game development
-  Chairs: Victor Mouschovias
+  chairs: Victor Mouschovias
   meetingTime: '7:00 PM'
   meetingDay: Monday
   meetingLoc: Siebel 3403
