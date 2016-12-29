@@ -22,7 +22,7 @@
 
 - name: SIGAI
   description: Special Interest Group for Artificial Intelligence
-  chairs: Akshay Mishra
+  chairs: Jordan Luber
   meetingTime: ''
   meetingDay: ''
   meetingLoc: ''
@@ -149,4 +149,24 @@
   site: 'illinihackers.org'
   members: []
   email: 'contact@illinihackers.org'
+
+- name: SIGVRST
+  description: Special Interest Group for Virtual, Augmented, and Mixed Reality
+  chairs: Abhishek Modi
+  meetingTime: '5:00 PM' 
+  meetingDay: Thursday
+  meetingLoc: Siebel 4405
+  site: 'http://www.acm.illinois.edu/sigvrst'
+  members: []
+  email: 'VRST-l@acm.illinois.edu'
+
+- name: SIGIR
+  description: Special Interest Group for Information Retrieval
+  chairs: Austin Chung, Sameet Sapra
+  meetingTime: 'X:XX PM'
+  meetingDay: Weekday
+  meetingLoc: Siebel XXXX
+  site: 'http://www.acm.illinois.edu/sigir'
+  members: []
+  email: 'SIGIR-l@acm.illinois.edu'
   
