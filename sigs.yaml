@@ -22,7 +22,7 @@
 
 - name: SIGAI
   description: Special Interest Group for Artificial Intelligence
-  chairs: Jordan Luber
+  chairs: Akshay Mishra
   meetingTime: ''
   meetingDay: ''
   meetingLoc: ''
@@ -49,7 +49,7 @@
   site: http://www.acm.illinois.edu/sigbot/
   members: []
   email: " SIGBot@acm.illinois.edu"
-  
+
 - name: SIGCHI
   description: Special Interest Group for Human-Computer Interaction.
   chairs: Andrew Kuznetsov
@@ -59,7 +59,7 @@
   site: http://www.acm.illinois.edu/sigchi
   members: []
   email: SIGCHI-l@acm.illinois.edu
-  
+
 - name: SIGGRAPH
   description: Special Interest Group for Graphics
   chairs: Chengyang Weng
@@ -69,27 +69,27 @@
   site: 'http://illinois.siggraph.org/'
   members: []
   email: 'SIGGRAPH-Announce@acm.illinois.edu'
-  
+
 - name: ADSA
   description: Association of Data Science and Analytics
   chairs: Srujan Gupta
   meetingTime: ''
   meetingDay: ''
   meetingLoc: ''
-  site: ''
+  site: 'http://adsauiuc.com'
   members: []
   email: 'SIGMis-l@acm.illinois.edu'
-  
+
 - name: SIGMobile
   description: Special Interst Group for Mobile Development
   chairs: Rohan Mathur
   meetingTime: '6:00 PM'
   meetingDay: Sunday
   meetingLoc: Siebel 1109
-  site: ' http://github.com/sigmobileillinois'
+  site: 'http://github.com/sigmobileillinois'
   members: []
   email: 'SIGMobile-l@acm.illinois.edu'
-  
+
 - name: SIGMusic
   description: Special Interest Group for Music
   chairs: Berwin Xie
@@ -99,7 +99,7 @@
   site: 'http://www.acm.illinois.edu/sigmusic'
   members: []
   email: 'SIGMusic-l@acm.illinois.edu'
-  
+
 - name: SIGOps
   description: Special Interest Group for Operating Systems
   chairs: Tanishq Dubey
@@ -109,7 +109,7 @@
   site: 'http://www.acm.illinois.edu/sigops/'
   members: []
   email: 'SIGOps-l@acm.illinois.edu'
-  
+
 - name: SIGPlan
   description: Special Interest Group for Programming Languages
   chairs: Remy Goldschmidt
@@ -119,20 +119,20 @@
   site: 'http://category.engineering/'
   members: []
   email: 'SIGPLAN-l@acm.illinois.edu'
-  
+
 - name: SIGPwny
   description: Special Interest Group for Security
   chairs: Alex Mitsdarfer
-  meetingTime: '5:00 PM' 
+  meetingTime: '5:00 PM'
   meetingDay: Thursday
   meetingLoc: Siebel 3405
   site: 'http://www.acm.illinois.edu/sigpwny'
   members: []
   email: 'SIGPony-l@acm.illinois.edu'
-  
+
 - name: WebMonkeys
   description: Special Interest Group for Web Development
-  chairs: Sujay Khandekar
+  chairs: Sujay Khandekar, Ozzy Villagomez
   meetingTime: '6:00 PM'
   meetingDay: Tuesday
   meetingLoc: Siebel 1214
@@ -153,7 +153,7 @@
 - name: SIGVRST
   description: Special Interest Group for Virtual, Augmented, and Mixed Reality
   chairs: Abhishek Modi
-  meetingTime: '5:00 PM' 
+  meetingTime: '5:00 PM'
   meetingDay: Thursday
   meetingLoc: Siebel 4405
   site: 'http://www.acm.illinois.edu/sigvrst'
@@ -163,10 +163,19 @@
 - name: SIGIR
   description: Special Interest Group for Information Retrieval
   chairs: Austin Chung, Sameet Sapra
-  meetingTime: 'X:XX PM'
-  meetingDay: Weekday
-  meetingLoc: Siebel XXXX
+  meetingTime: 6pm
+  meetingDay: Wednesday
+  meetingLoc: Siebel 3403
   site: 'http://www.acm.illinois.edu/sigir'
   members: []
   email: 'SIGIR-l@acm.illinois.edu'
-  
+
+- name: SIGSpatial
+  description: Special Interest Group for Spatial and Vision
+  chairs: Anselmo Shim
+  meetingTime: ''
+  meetingDay: ''
+  meetingLoc: ''
+  site: ''
+  members: []
+  email: ''
