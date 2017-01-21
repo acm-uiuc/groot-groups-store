@@ -22,8 +22,8 @@
 - name: Admin
   description: The ACM Administration Team is the committee responsible for the establishment and maintenance of ACM resources, service and support to the ACM users, and coordination and communication between ACM and campus technology management groups such as Engineering IT and Technology Services.
   chairs: Eric Ahn
-  members: [Eric Ahn, Aashish Kapur, Kevin Rajan, Ish Shah, Kevin Wang, Rauhul Varma, Sameet Sapra]
-  netids: [ericahn3, askapur2, ksrajan2, klwang3, ishshah2, rvarma2, ssapra2]
+  members: [Eric Ahn, Aashish Kapur, Kevin Rajan, Ish Shah, Kevin Wang, Rauhul Varma, Sameet Sapra, Benjamin Congdon]
+  netids: [ericahn3, askapur2, ksrajan2, klwang3, ishshah2, rvarma2, ssapra2, bcongdo2]
   email: Admin-l@acm.illinois.edu
 
 - name: Corporate
