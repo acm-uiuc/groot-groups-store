@@ -3,7 +3,7 @@
   description: The leadership team for ACM
   chairs: Naren Dasan
   members: [Naren Dasan, Sathvika Ashokkumar, Tommy Yu, Alec Kochevar-Cureton]
-  netids: [sivagna2, ashokku2, tjyu3, kocheva2]  
+  netids: [sivagna2, ashokku2, tjyu3, kocheva2]
   email: acm@illinois.edu
   roles:
   - name: Chair
@@ -17,13 +17,13 @@
     email: treasurer@acm.illinois.edu
   - name: Secretary
     holder: Alec Kochevar-Cureton
-    email: secretary@acm.illinois.edu   
+    email: secretary@acm.illinois.edu
 
 - name: Admin
   description: The ACM Administration Team is the committee responsible for the establishment and maintenance of ACM resources, service and support to the ACM users, and coordination and communication between ACM and campus technology management groups such as Engineering IT and Technology Services.
-  chairs: Eric Ahn
-  members: [Eric Ahn, Aashish Kapur, Kevin Rajan, Ish Shah, Kevin Wang, Rauhul Varma, Sameet Sapra, Benjamin Congdon]
-  netids: [ericahn3, askapur2, ksrajan2, klwang3, ishshah2, rvarma2, ssapra2, bcongdo2]
+  chairs: Aashish Kapur
+  members: [Aashish Kapur, Ish Shah, Kevin Wang, Rauhul Varma, Sameet Sapra, Benjamin Congdon]
+  netids: [askapur2, klwang3, ishshah2, rvarma2, ssapra2, bcongdo2]
   email: Admin-l@acm.illinois.edu
 
 - name: Corporate
@@ -35,17 +35,20 @@
 
 - name: Events
   description: The Events committee organizes all ACM events, including Reflections | Projections and HackIllinois.
-  chairs: To Be Appointed
-  members: [Shivali Patel, Tori Becú, Arnav Mishra]
-  netids: [supatel2, FILL IN HERE, agmishr2]
+  chairs: Sujay Khandekar
+  members: [Sujay Khandekar, Shivali Patel, Tori Becú, Arnav Mishra]
+  netids: [khandek2, supatel2, becu2, agmishr2]
   email: Events-l@acm.illinois.edu
-  roles: 
+  roles:
+  - name: Events Chair
+    holder: Sujay Khandekar
+    email: events-l@acm.illinois.edu
   - name: Director of HackIllinois
     holder: Arnav Mishra
     email: contact@hackillinois.org
   - name: Chairs of Reflections|Projections
     holder: Shivali Patel, Tori Becú
-    email: Conference@acm.illinois.edu 
+    email: Conference@acm.illinois.edu
 
 - name: Projects
   description: Projects
@@ -53,10 +56,10 @@
   members: [Kevin Wang]
   netids: [klwang3]
   email: Projects-l@acm.illinois.edu
-  
+
 - name: Social
   description: Organize social events for ACM@UIUC!
   chairs: Margie Chubin
-  members: [Margie Chubin, Jacob Gacek, Pranay Prakash]
-  netids: [chubin2, jgacek2, pgpraka2]
+  members: [Margie Chubin, Ananya Cleetus, Caren Zeng]
+  netids: [chubin2, cleetus2, carenz2]
   email: Social-l@acm.illinois.edu
