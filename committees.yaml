@@ -28,9 +28,9 @@
 
 - name: Corporate
   description: Corporate committee
-  chairs: Tyler Kim, Amanda Sopkin
-  members: [Tyler Kim, Eric Lee, Sameet Sapra, Amanda Sopkin]
-  netids: [sopkin2, tkim139, ssapra2, ericdl2]
+  chairs: Tyler Kim
+  members: [Tyler Kim, Eric Lee, Sameet Sapra, Caren Zeng, Will Robbins]
+  netids: [tkim139, ssapra2, ericdl2, carenz2, wrobbin2]
   email: Corporate-l@acm.illinois.edu
 
 - name: Events
