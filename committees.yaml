@@ -28,8 +28,8 @@
 
 - name: Corporate
   description: Corporate committee
-  chairs: Tyler Kim
-  members: [Tyler Kim, Eric Lee, Sameet Sapra, Caren Zeng, Will Robbins, Daniel Zou]
+  chairs: Naren Dasan
+  members: [Naren Dasan, Eric Lee, Sameet Sapra, Caren Zeng, Will Robbins, Daniel Zou]
   netids: [tkim139, ssapra2, ericdl2, carenz2, wrobbin2, dzou2]
   email: Corporate-l@acm.illinois.edu
 
