@@ -2,35 +2,35 @@
 - name: Top4
   description: The leadership team for ACM
   chairs: Naren Dasan
-  members: [Naren Dasan, Sathvika Ashokkumar, Tommy Yu, Alec Kochevar-Cureton]
-  netids: [sivagna2, ashokku2, tjyu3, kocheva2]
+  members: [Tommy Yu, Rauhul Varma, Caren Zeng, Eric Lee]
+  netids: [tjyu3, rvarma2, carenz2, ericdl2]
   email: acm@illinois.edu
   roles:
   - name: Chair
-    holder: Naren Dasan
+    holder: Tommy Yu
     email: acm@illinois.edu
   - name: Vice-Chair
-    holder: Sathvika Ashokkumar
+    holder: Rauhul Varma
     email: vice-chair@acm.illinois.edu
   - name: Treasurer
-    holder: Tommy Yu
+    holder: Caren Zeng
     email: treasurer@acm.illinois.edu
   - name: Secretary
-    holder: Alec Kochevar-Cureton
+    holder: Eric Lee
     email: secretary@acm.illinois.edu
 
 - name: Admin
   description: The ACM Administration Team is the committee responsible for the establishment and maintenance of ACM resources, service and support to the ACM users, and coordination and communication between ACM and campus technology management groups such as Engineering IT and Technology Services.
   chairs: Aashish Kapur
-  members: [Aashish Kapur, Ish Shah, Kevin Wang, Rauhul Varma, Sameet Sapra, Benjamin Congdon]
-  netids: [askapur2, klwang3, ishshah2, rvarma2, ssapra2, bcongdo2]
+  members: [Aashish Kapur, Ish Shah, Kevin Wang, Rauhul Varma, Sameet Sapra, Benjamin Congdon, Naren Dasan]
+  netids: [askapur2, ishshah2, klwang3, rvarma2, ssapra2, bcongdo2, sivagna2]
   email: Admin-l@acm.illinois.edu
 
 - name: Corporate
   description: Corporate committee
-  chairs: Tyler Kim
-  members: [Tyler Kim, Eric Lee, Sameet Sapra, Caren Zeng, Will Robbins, Daniel Zou]
-  netids: [tkim139, ssapra2, ericdl2, carenz2, wrobbin2, dzou2]
+  chairs: Naren Dasan
+  members: [Naren Dasan, Tyler Kim, Eric Lee, Sameet Sapra, Caren Zeng, Will Robbins, Daniel Zou]
+  netids: [sivagna2, tkim139, ssapra2, ericdl2, carenz2, wrobbin2, dzou2]
   email: Corporate-l@acm.illinois.edu
 
 - name: Events
