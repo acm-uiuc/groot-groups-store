@@ -59,7 +59,7 @@
 
 - name: Social
   description: Organize social events for ACM@UIUC!
-  chairs: Margie Chubin
-  members: [Margie Chubin, Ananya Cleetus, Caren Zeng]
-  netids: [chubin2, cleetus2, carenz2]
+  chairs: Ananya Cleetus
+  members: [Ananya Cleetus, Caren Zeng]
+  netids: [cleetus2, carenz2]
   email: Social-l@acm.illinois.edu
