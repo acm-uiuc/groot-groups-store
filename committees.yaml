@@ -36,15 +36,15 @@
 - name: Events
   description: The Events committee organizes all ACM events, including Reflections | Projections and HackIllinois.
   chairs: Sujay Khandekar
-  members: [Sujay Khandekar, Shivali Patel, Tori Becú, Arnav Mishra]
-  netids: [khandek2, supatel2, becu2, agmishr2]
+  members: [Sujay Khandekar, Shivali Patel, Tori Becú, Kevin Hong, Yasha Mostofi]
+  netids: [khandek2, supatel2, becu2, khong18, mostofi2]
   email: Events-l@acm.illinois.edu
   roles:
   - name: Events Chair
     holder: Sujay Khandekar
     email: events-l@acm.illinois.edu
-  - name: Director of HackIllinois
-    holder: Arnav Mishra
+  - name: Directors of HackIllinois
+    holder: Kevin Hong, Yasha Mostofi
     email: contact@hackillinois.org
   - name: Chairs of Reflections|Projections
     holder: Shivali Patel, Tori Becú
@@ -59,7 +59,7 @@
 
 - name: Social
   description: Organize social events for ACM@UIUC!
-  chairs: Margie Chubin
-  members: [Margie Chubin, Ananya Cleetus, Caren Zeng]
-  netids: [chubin2, cleetus2, carenz2]
+  chairs: Ananya Cleetus
+  members: [Ananya Cleetus, Caren Zeng]
+  netids: [cleetus2, carenz2]
   email: Social-l@acm.illinois.edu
