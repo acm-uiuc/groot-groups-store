@@ -29,8 +29,8 @@
 - name: Corporate
   description: Corporate committee
   chairs: Naren Dasan
-  members: [Naren Dasan, Rauhul Varma, Eric Lee, Sameet Sapra, Caren Zeng, Will Robbins, Daniel Zou]
-  netids: [sivagna2, rvarma2, ssapra2, ericdl2, carenz2, wrobbin2, dzou2]
+  members: [Naren Dasan, Rauhul Varma, Eric Lee, Sameet Sapra, Caren Zeng, Shivali Patel, Tori Becú, Will Robbins, Daniel Zou, Benjamin Correll, Arnav Mishra]
+  netids: [sivagna2, rvarma2, ericdl2, ssapra2, carenz2, supatel2, becu2, wrobbin2, dzou2, bcorrel2, agmishr2]
   email: Corporate-l@acm.illinois.edu
 
 - name: Events
