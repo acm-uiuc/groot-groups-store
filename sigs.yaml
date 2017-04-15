@@ -130,12 +130,12 @@
   members: []
   email: 'SIGPony-l@acm.illinois.edu'
 
-- name: WebMonkeys
+- name: Webmonkeys
   description: Special Interest Group for Web Development
-  chairs: Sujay Khandekar, Ozzy Villagomez
+  chairs: Sujay Khandekar, Ozzy Villagomez, Pranay Prakash
   meetingTime: '6:00 PM'
   meetingDay: Tuesday
-  meetingLoc: Siebel 1214
+  meetingLoc: Siebel 3401
   site: 'http://www.acm.illinois.edu/webmonkeys'
   members: []
   email: 'Webmonkeys-l@acm.illinois.edu'
