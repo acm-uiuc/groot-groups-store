@@ -1,7 +1,7 @@
 ---
 - name: Top4
   description: The leadership team for ACM
-  chairs: Naren Dasan
+  chairs: Tommy Yu
   members: [Tommy Yu, Rauhul Varma, Caren Zeng, Eric Lee]
   netids: [tjyu3, rvarma2, carenz2, ericdl2]
   email: acm@illinois.edu
@@ -28,9 +28,9 @@
 
 - name: Corporate
   description: Corporate committee
-  chairs: Naren Dasan
-  members: [Naren Dasan, Rauhul Varma, Eric Lee, Sameet Sapra, Caren Zeng, Shivali Patel, Tori Becú, Will Robbins, Daniel Zou, Benjamin Correll, Arnav Mishra]
-  netids: [sivagna2, rvarma2, ericdl2, ssapra2, carenz2, supatel2, becu2, wrobbin2, dzou2, bcorrel2, agmishr2]
+  chairs: Ann Rajan, Min Park, Vivek Vaidya
+  members: [Ann Rajan, Min Park, Vivek Vaidya, Naren Dasan, Rauhul Varma, Eric Lee, Sameet Sapra, Caren Zeng, Shivali Patel, Tori Becú, Will Robbins, Daniel Zou, Benjamin Correll, Arnav Mishra]
+  netids: [vkv2, minhyuk2, amrajan2, sivagna2, rvarma2, ericdl2, ssapra2, carenz2, supatel2, becu2, wrobbin2, dzou2, bcorrel2, agmishr2]
   email: Corporate-l@acm.illinois.edu
 
 - name: Events
