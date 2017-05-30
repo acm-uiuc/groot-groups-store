@@ -29,8 +29,8 @@
 - name: Corporate
   description: Corporate committee
   chairs: Ann Rajan, Min Park, Vivek Vaidya
-  members: [Ann Rajan, Min Park, Vivek Vaidya, Naren Dasan, Eric Lee, Sameet Sapra, Caren Zeng, Shivali Patel, Tori Becú, Will Robbins, Daniel Zou, Benjamin Correll, Arnav Mishra, Kevin Hong, Saketh Vasamsetti]
-  netids: [vkv2, minhyuk2, amrajan2, sivagna2, ericdl2, ssapra2, carenz2, supatel2, becu2, wrobbin2, dzou2, bcorrel2, agmishr2, khong18, ssv2]
+  members: [Ann Rajan, Min Park, Vivek Vaidya, Naren Dasan, Eric Lee, Sameet Sapra, Caren Zeng, Shivali Patel, Tori Becú, Will Robbins, Daniel Zou, Benjamin Correll, Arnav Mishra, Kevin Hong, Saketh Vasamsetti, Justin Yang]
+  netids: [vkv2, minhyuk2, amrajan2, sivagna2, ericdl2, ssapra2, carenz2, supatel2, becu2, wrobbin2, dzou2, bcorrel2, agmishr2, khong18, ssv2, justiny2]
   email: Corporate-l@acm.illinois.edu
 
 - name: Events
