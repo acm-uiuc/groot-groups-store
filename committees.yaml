@@ -2,64 +2,140 @@
 - name: Top4
   description: The leadership team for ACM
   chairs: Tommy Yu
-  members: [Tommy Yu, Rauhul Varma, Caren Zeng, Eric Lee]
-  netids: [tjyu3, rvarma2, carenz2, ericdl2]
+  members:
+    - Tommy Yu
+    - Rauhul Varma
+    - Caren Zeng
+    - Eric Lee
+  netids:
+    - tjyu3
+    - rvarma2
+    - carenz2
+    - ericdl2
   email: acm@illinois.edu
   roles:
-  - name: Chair
-    holder: Tommy Yu
-    email: acm@illinois.edu
-  - name: Vice-Chair
-    holder: Rauhul Varma
-    email: vice-chair@acm.illinois.edu
-  - name: Treasurer
-    holder: Eric Lee
-    email: treasurer@acm.illinois.edu
-  - name: Secretary
-    holder: Caren Zeng
-    email: secretary@acm.illinois.edu
+    - name: Chair
+      holder: Tommy Yu
+      email: acm@illinois.edu
+    - name: Vice-Chair
+      holder: Rauhul Varma
+      email: vice-chair@acm.illinois.edu
+    - name: Treasurer
+      holder: Eric Lee
+      email: treasurer@acm.illinois.edu
+    - name: Secretary
+      holder: Caren Zeng
+      email: secretary@acm.illinois.edu
 
 - name: Admin
-  description: The ACM Administration Team is the committee responsible for the establishment and maintenance of ACM resources, service and support to the ACM users, and coordination and communication between ACM and campus technology management groups such as Engineering IT and Technology Services.
+  description: >
+    The ACM Administration Team is the committee responsible for the establishment and
+    maintenance of ACM resources, service and support to the ACM users, and coordination and
+    communication between ACM and campus technology management groups such as Engineering IT and
+    Technology Services.
   chairs: Aashish Kapur
-  members: [Aashish Kapur, Ish Shah, Kevin Wang, Rauhul Varma, Sameet Sapra, Benjamin Congdon, Naren Dasan]
-  netids: [askapur2, ishshah2, klwang3, rvarma2, ssapra2, bcongdo2, sivagna2]
+  members:
+    - Aashish Kapur
+    - Ish Shah
+    - Kevin Wang
+    - Rauhul Varma
+    - Sameet Sapra
+    - Benjamin Congdon
+    - Naren Dasan
+  netids:
+    - askapur2
+    - ishshah2
+    - klwang3
+    - rvarma2
+    - ssapra2
+    - bcongdo2
+    - sivagna2
   email: Admin-l@acm.illinois.edu
 
 - name: Corporate
   description: Corporate committee
   chairs: Ann Rajan, Min Park, Vivek Vaidya
-  members: [Ann Rajan, Min Park, Vivek Vaidya, Naren Dasan, Eric Lee, Sameet Sapra, Caren Zeng, Shivali Patel, Tori Becú, Will Robbins, Daniel Zou, Benjamin Correll, Arnav Mishra, Kevin Hong, Saketh Vasamsetti, Justin Yang, Tommy Yu]
-  netids: [vkv2, minhyuk2, amrajan2, sivagna2, ericdl2, ssapra2, carenz2, supatel2, becu2, wrobbin2, dzou2, bcorrel2, agmishr2, khong18, ssv2, justiny2, tjyu3]
+  members:
+    - Ann Rajan
+    - Min Park
+    - Vivek Vaidya
+    - Naren Dasan
+    - Eric Lee
+    - Sameet Sapra
+    - Caren Zeng
+    - Shivali Patel
+    - Will Robbins
+    - Daniel Zou
+    - Benjamin Correll
+    - Arnav Mishra
+    - Kevin Hong
+    - Saketh Vasamsetti
+    - Justin Yang
+    - Tommy Yu
+  netids:
+    - vkv2
+    - minhyuk2
+    - amrajan2
+    - sivagna2
+    - ericdl2
+    - ssapra2
+    - carenz2
+    - supatel2
+    - wrobbin2
+    - dzou2
+    - bcorrel2
+    - agmishr2
+    - khong18
+    - ssv2
+    - justiny2
+    - tjyu3
   email: Corporate-l@acm.illinois.edu
 
 - name: Events
-  description: The Events committee organizes all ACM events, including Reflections | Projections and HackIllinois.
+  description: >
+    The Events committee organizes all ACM events, including Reflections | Projections and
+    HackIllinois.
   chairs: Sujay Khandekar
-  members: [Sujay Khandekar, Shivali Patel, Tori Becú, Kevin Hong, Yasha Mostofi, Tommy Yu]
-  netids: [khandek2, supatel2, becu2, khong18, mostofi2, tjyu3]
+  members:
+    - Sujay Khandekar
+    - Shivali Patel
+    - Kevin Hong
+    - Yasha Mostofi
+    - Tommy Yu
+  netids:
+    - khandek2
+    - supatel2
+    - khong18
+    - mostofi2
+    - tjyu3
   email: Events-l@acm.illinois.edu
   roles:
-  - name: Events Chair
-    holder: Sujay Khandekar
-    email: events-l@acm.illinois.edu
-  - name: Directors of HackIllinois
-    holder: Kevin Hong, Yasha Mostofi
-    email: contact@hackillinois.org
-  - name: Chairs of Reflections|Projections
-    holder: Shivali Patel, Tori Becú
-    email: Conference@acm.illinois.edu
+    - name: Events Chair
+      holder: Sujay Khandekar
+      email: events-l@acm.illinois.edu
+    - name: Directors of HackIllinois
+      holder: Kevin Hong, Yasha Mostofi
+      email: contact@hackillinois.org
+    - name: Chairs of Reflections|Projections
+      holder: Shivali Patel
+      email: Conference@acm.illinois.edu
 
 - name: Projects
   description: Projects
   chairs: Naren Dasan
-  members: [Naren Dasan]
-  netids: [sivagna2]
+  members:
+    - Naren Dasan
+  netids:
+    - sivagna2
   email: Projects-l@acm.illinois.edu
 
 - name: Social
   description: Organize social events for ACM@UIUC!
   chairs: Ananya Cleetus
-  members: [Ananya Cleetus, Caren Zeng]
-  netids: [cleetus2, carenz2]
+  members:
+    - Ananya Cleetus
+    - Caren Zeng
+  netids:
+    - cleetus2
+    - carenz2
   email: Social-l@acm.illinois.edu
