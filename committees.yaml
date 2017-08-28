@@ -64,7 +64,6 @@
     - Sameet Sapra
     - Caren Zeng
     - Shivali Patel
-    - Tori Becú
     - Will Robbins
     - Daniel Zou
     - Benjamin Correll
@@ -82,7 +81,6 @@
     - ssapra2
     - carenz2
     - supatel2
-    - becu2
     - wrobbin2
     - dzou2
     - bcorrel2
@@ -101,14 +99,12 @@
   members:
     - Sujay Khandekar
     - Shivali Patel
-    - Tori Becú
     - Kevin Hong
     - Yasha Mostofi
     - Tommy Yu
   netids:
     - khandek2
     - supatel2
-    - becu2
     - khong18
     - mostofi2
     - tjyu3
@@ -121,7 +117,7 @@
       holder: Kevin Hong, Yasha Mostofi
       email: contact@hackillinois.org
     - name: Chairs of Reflections|Projections
-      holder: Shivali Patel, Tori Becú
+      holder: Shivali Patel
       email: Conference@acm.illinois.edu
 
 - name: Projects
