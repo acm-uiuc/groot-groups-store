@@ -30,16 +30,6 @@
   members: []
   email: SIGArt-l@acm.illinois.edu
 
-- name: SIGNature
-  description: To pursue biological computing and cybernetics.
-  chairs: Kyle Herndon
-  meetingTime: '1:00 PM'
-  meetingDay: Wednesday
-  meetingLoc: Siebel 1106
-  site: ''
-  members: []
-  email: SIGBio-l@acm.illinois.edu
-
 - name: SIGBot
   description: Special Interest Group for Robotics
   chairs: Rauhul Varma, Naren Dasan
