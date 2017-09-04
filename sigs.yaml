@@ -52,7 +52,7 @@
 
 - name: SIGGRAPH
   description: Special Interest Group for Graphics
-  chairs: Chengyang Weng
+  chairs: Jasmine Shih
   meetingTime: '7:00 PM'
   meetingDay: Thursday
   meetingLoc: Siebel 1131
@@ -82,7 +82,7 @@
 
 - name: SIGMusic
   description: Special Interest Group for Music
-  chairs: Berwin Xie
+  chairs: Dean Cannon
   meetingTime: '8:00 PM'
   meetingDay: Wednesday
   meetingLoc: Siebel 1105
@@ -112,7 +112,7 @@
 
 - name: SIGPwny
   description: Special Interest Group for Security
-  chairs: Alex Mitsdarfer
+  chairs: Eric Hennenfent
   meetingTime: '5:00 PM'
   meetingDay: Thursday
   meetingLoc: Siebel 1109
@@ -142,7 +142,7 @@
 
 - name: SIGVRST
   description: Special Interest Group for Virtual, Augmented, and Mixed Reality
-  chairs: Abhishek Modi
+  chairs: Shank Saxena
   meetingTime: '5:00 PM'
   meetingDay: Thursday
   meetingLoc: Siebel 4405
@@ -152,7 +152,7 @@
 
 - name: SIGIR
   description: Special Interest Group for Information Retrieval
-  chairs: Austin Chung, Sameet Sapra
+  chairs: Aidan San, Ethan Cheng
   meetingTime: 6pm
   meetingDay: Wednesday
   meetingLoc: Siebel 3403
