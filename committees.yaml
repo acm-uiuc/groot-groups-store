@@ -121,12 +121,22 @@
       email: Conference@acm.illinois.edu
 
 - name: Projects
-  description: Projects
+  description: Projects manages all of the engineering efforts for ACM@UIUC.
   chairs: Naren Dasan
   members:
     - Naren Dasan
+    - Ben Congdon
+    - Sameet Sapra
+    - Aashish Kapur
+    - Rauhul Varma
   netids:
     - sivagna2
+    - bcongdo2
+    - ssapra2
+    - askapur2
+    - rvarma2
+  meetingTime: '6:30 PM'
+  meetingDay: Monday
   email: Projects-l@acm.illinois.edu
 
 - name: Social
