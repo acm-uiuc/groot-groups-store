@@ -52,10 +52,10 @@
 
 - name: SIGGRAPH
   description: Special Interest Group for Graphics
-  chairs: Chengyang Weng
+  chairs: Jasmine Shih, Amanda Yu
   meetingTime: '7:00 PM'
-  meetingDay: Thursday
-  meetingLoc: Siebel 1131
+  meetingDay: Monday
+  meetingLoc: TBD
   site: 'http://illinois.siggraph.org/'
   members: []
   email: 'SIGGRAPH-Announce@acm.illinois.edu'
