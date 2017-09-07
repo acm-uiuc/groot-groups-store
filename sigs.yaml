@@ -152,10 +152,10 @@
 
 - name: SIGIR
   description: Special Interest Group for Information Retrieval
-  chairs: Austin Chung, Sameet Sapra
-  meetingTime: 6pm
+  chairs: Aidan San, Ethan Cheng
+  meetingTime: 5pm
   meetingDay: Wednesday
-  meetingLoc: Siebel 3403
+  meetingLoc: Siebel 1109
   site: 'http://www.acm.illinois.edu/sigir'
   members: []
   email: 'SIGIR-l@acm.illinois.edu'
