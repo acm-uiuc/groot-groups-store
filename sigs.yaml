@@ -150,12 +150,12 @@
   members: []
   email: 'contact@illinihackers.org'
 
-- name: SIGVRST
-  description: Special Interest Group for Virtual, Augmented, and Mixed Reality
-  chairs: Abhishek Modi
-  meetingTime: '5:00 PM'
-  meetingDay: Thursday
-  meetingLoc: Siebel 4405
+- name: SIGVR
+  description: Special Interest Group for Virtual Reality
+  chairs: Shashank Saxena
+  meetingTime: '6:30 PM'
+  meetingDay: Saturday
+  meetingLoc: Siebel 3404
   site: 'http://www.acm.illinois.edu/sigvrst'
   members: []
   email: 'VRST-l@acm.illinois.edu'
