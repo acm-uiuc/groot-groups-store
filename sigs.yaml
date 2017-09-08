@@ -32,11 +32,11 @@
 
 - name: SIGAI
   description: Special Interest Group for Artificial Intelligence
-  chairs: Akshay Mishra
-  meetingTime: ''
-  meetingDay: ''
-  meetingLoc: ''
-  site: http://www.acm.illinois.edu/sigart/
+  chairs: Akshay Mishra and Shotaro Ikeda
+  meetingTime: '7pm-9pm'
+  meetingDay: 'Monday'
+  meetingLoc: 'Siebel 1111'
+  site: https://sigai.ml
   members: []
   email: SIGArt-l@acm.illinois.edu
 
