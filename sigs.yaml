@@ -42,13 +42,13 @@
 
 - name: SIGBot
   description: Special Interest Group for Robotics
-  chairs: Rauhul Varma, Naren Dasan
+  chairs: Adrian Brandemuehl
   meetingTime: '3:00 PM'
   meetingDay: Friday
   meetingLoc: Siebel 1110
-  site: https://www.facebook.com/groups/644266355710283/
+  site: https://www.facebook.com/groups/sigbot/
   members: []
-  email: " SIGBot@acm.illinois.edu"
+  email: "SIGBot@acm.illinois.edu"
 
 - name: SIGCHI
   description: Special Interest Group for Human-Computer Interaction.
