@@ -92,10 +92,10 @@
 
 - name: SIGMusic
   description: Special Interest Group for Music
-  chairs: Berwin Xie
-  meetingTime: '8:00 PM'
-  meetingDay: Wednesday
-  meetingLoc: Siebel 1105
+  chairs: Dean Cannon
+  meetingTime: 'TBA'
+  meetingDay: TBA
+  meetingLoc: TBA
   site: 'http://www.acm.illinois.edu/sigmusic'
   members: []
   email: 'SIGMusic-l@acm.illinois.edu'
