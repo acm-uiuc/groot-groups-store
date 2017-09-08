@@ -9,6 +9,16 @@
   members: []
   email: Gamebuilders@acm.illinois.edu
 
+- name: GLUG
+  description: GNU/Linux Users Group
+  chairs: Ish Shah
+  meetingTime: '8:00 PM'
+  meetingDay: Thursday
+  meetingLoc: Siebel 1109
+  site: http://www.gnulug.org/
+  members: []
+  email: glug@acm.illinois.edu
+
 - name: ICPC
   description: Facilitate the development of contest programming skills, with the
     goal of producing highly competitive teams in the prestigious ACM ICPC competition.
@@ -22,11 +32,11 @@
 
 - name: SIGAI
   description: Special Interest Group for Artificial Intelligence
-  chairs: Akshay Mishra
-  meetingTime: ''
-  meetingDay: ''
-  meetingLoc: ''
-  site: http://www.acm.illinois.edu/sigart/
+  chairs: Akshay Mishra and Shotaro Ikeda
+  meetingTime: '7pm-9pm'
+  meetingDay: 'Monday'
+  meetingLoc: 'Siebel 1111'
+  site: https://sigai.ml
   members: []
   email: SIGArt-l@acm.illinois.edu
 
@@ -52,10 +62,10 @@
 
 - name: SIGGRAPH
   description: Special Interest Group for Graphics
-  chairs: Chengyang Weng
+  chairs: Jasmine Shih, Amanda Yu
   meetingTime: '7:00 PM'
-  meetingDay: Thursday
-  meetingLoc: Siebel 1131
+  meetingDay: Monday
+  meetingLoc: TBD
   site: 'http://illinois.siggraph.org/'
   members: []
   email: 'SIGGRAPH-Announce@acm.illinois.edu'
@@ -82,10 +92,10 @@
 
 - name: SIGMusic
   description: Special Interest Group for Music
-  chairs: Berwin Xie
-  meetingTime: '8:00 PM'
-  meetingDay: Wednesday
-  meetingLoc: Siebel 1105
+  chairs: Dean Cannon
+  meetingTime: 'TBA'
+  meetingDay: TBA
+  meetingLoc: TBA
   site: 'http://www.acm.illinois.edu/sigmusic'
   members: []
   email: 'SIGMusic-l@acm.illinois.edu'
@@ -122,10 +132,10 @@
 
 - name: Webmonkeys
   description: Special Interest Group for Web Development
-  chairs: Sujay Khandekar, Ozzy Villagomez, Pranay Prakash
+  chairs: Pranay Prakash
   meetingTime: '6:00 PM'
   meetingDay: Tuesday
-  meetingLoc: Siebel 3401
+  meetingLoc: Siebel 1105
   site: 'http://www.acm.illinois.edu/webmonkeys'
   members: []
   email: 'Webmonkeys-l@acm.illinois.edu'
@@ -140,22 +150,22 @@
   members: []
   email: 'contact@illinihackers.org'
 
-- name: SIGVRST
-  description: Special Interest Group for Virtual, Augmented, and Mixed Reality
-  chairs: Abhishek Modi
-  meetingTime: '5:00 PM'
-  meetingDay: Thursday
-  meetingLoc: Siebel 4405
+- name: SIGVR
+  description: Special Interest Group for Virtual Reality
+  chairs: Shashank Saxena
+  meetingTime: '6:30 PM'
+  meetingDay: Saturday
+  meetingLoc: Siebel 3404
   site: 'http://www.acm.illinois.edu/sigvrst'
   members: []
   email: 'VRST-l@acm.illinois.edu'
 
 - name: SIGIR
   description: Special Interest Group for Information Retrieval
-  chairs: Austin Chung, Sameet Sapra
-  meetingTime: 6pm
+  chairs: Aidan San, Ethan Cheng
+  meetingTime: 5pm
   meetingDay: Wednesday
-  meetingLoc: Siebel 3403
+  meetingLoc: Siebel 1109
   site: 'http://www.acm.illinois.edu/sigir'
   members: []
   email: 'SIGIR-l@acm.illinois.edu'
