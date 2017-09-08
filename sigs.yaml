@@ -82,8 +82,8 @@
 
 - name: SIGMobile
   description: Special Interst Group for Mobile Development
-  chairs: Rohan Mathur, Krish Masand
-  meetingTime: '4:00 PM'
+  chairs: Zihan Wang
+  meetingTime: '2:00 PM'
   meetingDay: Sunday
   meetingLoc: Siebel 1109
   site: 'http://github.com/SIGMobileUIUC'
