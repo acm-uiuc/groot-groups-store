@@ -9,6 +9,16 @@
   members: []
   email: Gamebuilders@acm.illinois.edu
 
+- name: GLUG
+  description: GNU/Linux Users Group
+  chairs: Ish Shah
+  meetingTime: '8:00 PM'
+  meetingDay: Thursday
+  meetingLoc: Siebel 1109
+  site: http://www.gnulug.org/
+  members: []
+  email: glug@acm.illinois.edu
+
 - name: ICPC
   description: Facilitate the development of contest programming skills, with the
     goal of producing highly competitive teams in the prestigious ACM ICPC competition.
@@ -122,10 +132,10 @@
 
 - name: Webmonkeys
   description: Special Interest Group for Web Development
-  chairs: Sujay Khandekar, Ozzy Villagomez, Pranay Prakash
+  chairs: Pranay Prakash
   meetingTime: '6:00 PM'
   meetingDay: Tuesday
-  meetingLoc: Siebel 3401
+  meetingLoc: Siebel 1105
   site: 'http://www.acm.illinois.edu/webmonkeys'
   members: []
   email: 'Webmonkeys-l@acm.illinois.edu'
