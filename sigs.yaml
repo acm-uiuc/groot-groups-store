@@ -2,6 +2,7 @@
 - name: Gamebuilders
   description: Anything and everything related to game development
   chairs: Victor Mouschovias
+  chairContact: N/A
   meetingTime: '7:00 PM'
   meetingDay: Monday
   meetingLoc: Siebel 3403
@@ -12,6 +13,7 @@
 - name: GLUG
   description: GNU/Linux Users Group
   chairs: Ish Shah
+  chairContact: N/A
   meetingTime: '8:00 PM'
   meetingDay: Thursday
   meetingLoc: Siebel 1109
@@ -23,6 +25,7 @@
   description: Facilitate the development of contest programming skills, with the
     goal of producing highly competitive teams in the prestigious ACM ICPC competition.
   chairs: Arthur Li, Matthew Worley
+  chairContact: N/A
   meetingTime: '7:00 PM'
   meetingDay: Monday
   meetingLoc: Siebel 0218
@@ -33,6 +36,7 @@
 - name: SIGAI
   description: Special Interest Group for Artificial Intelligence
   chairs: Akshay Mishra and Shotaro Ikeda
+  chairContact: N/A
   meetingTime: '7pm-9pm'
   meetingDay: 'Monday'
   meetingLoc: 'Siebel 1111'
@@ -43,6 +47,7 @@
 - name: SIGBot
   description: Special Interest Group for Robotics
   chairs: Adrian Brandemuehl
+  chairContact: N/A
   meetingTime: '3:00 PM'
   meetingDay: Friday
   meetingLoc: Siebel 1110
@@ -53,6 +58,7 @@
 - name: SIGCHI
   description: Special Interest Group for Human-Computer Interaction.
   chairs: Andrew Kuznetsov
+  chairContact: N/A
   meetingTime: '5:00 PM'
   meetingDay: Wednesday
   meetingLoc: Siebel 1302
@@ -63,6 +69,7 @@
 - name: SIGGRAPH
   description: Special Interest Group for Graphics
   chairs: Jasmine Shih, Amanda Yu
+  chairContact: N/A
   meetingTime: '7:00 PM'
   meetingDay: Monday
   meetingLoc: TBD
@@ -73,6 +80,7 @@
 - name: ADSA
   description: Association of Data Science and Analytics
   chairs: Harshit Agarwal
+  chairContact: N/A
   meetingTime: 'TBD'
   meetingDay: ''
   meetingLoc: ''
@@ -83,6 +91,7 @@
 - name: SIGMobile
   description: Special Interst Group for Mobile Development
   chairs: Zihan Wang
+  chairContact: N/A
   meetingTime: '2:00 PM'
   meetingDay: Sunday
   meetingLoc: Siebel 1109
@@ -93,6 +102,7 @@
 - name: SIGMusic
   description: Special Interest Group for Music
   chairs: Dean Cannon
+  chairContact: N/A
   meetingTime: 'TBA'
   meetingDay: TBA
   meetingLoc: TBA
@@ -103,6 +113,7 @@
 - name: SIGOps
   description: Special Interest Group for Operating Systems
   chairs: Tanishq Dubey
+  chairContact: N/A
   meetingTime: '7:00 PM'
   meetingDay: Wednesday
   meetingLoc: Siebel 4405
@@ -113,6 +124,7 @@
 - name: SIGPlan
   description: Special Interest Group for Programming Languages
   chairs: Remy Goldschmidt
+  chairContact: N/A
   meetingTime: '3:00 PM'
   meetingDay: Sunday
   meetingLoc: Siebel 2407
@@ -123,6 +135,7 @@
 - name: SIGPwny
   description: Special Interest Group for Security
   chairs: Alex Mitsdarfer
+  chairContact: N/A
   meetingTime: '5:00 PM'
   meetingDay: Thursday
   meetingLoc: Siebel 1109
@@ -133,6 +146,7 @@
 - name: Webmonkeys
   description: Special Interest Group for Web Development
   chairs: Pranay Prakash
+  chairContact: N/A
   meetingTime: '6:00 PM'
   meetingDay: Tuesday
   meetingLoc: Siebel 1105
@@ -143,6 +157,7 @@
 - name: IlliniHackers
   description: Special Interest Group for Hackathons
   chairs: Yasha Mostofi, Arnav Mishra
+  chairContact: N/A
   meetingTime: '7:30 PM'
   meetingDay: Thursday
   meetingLoc: Siebel 1214
@@ -153,6 +168,7 @@
 - name: SIGVR
   description: Special Interest Group for Virtual Reality
   chairs: Shashank Saxena
+  chairContact: N/A
   meetingTime: '6:30 PM'
   meetingDay: Saturday
   meetingLoc: Siebel 3404
@@ -163,6 +179,7 @@
 - name: SIGIR
   description: Special Interest Group for Information Retrieval
   chairs: Aidan San, Ethan Cheng
+  chairContact: N/A
   meetingTime: 5pm
   meetingDay: Wednesday
   meetingLoc: Siebel 1109
@@ -173,6 +190,7 @@
 - name: SIGSpatial
   description: Special Interest Group for Spatial and Vision
   chairs: Anselmo Shim
+  chairContact: N/A
   meetingTime: ''
   meetingDay: ''
   meetingLoc: ''

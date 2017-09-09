@@ -2,6 +2,7 @@
 - name: Top4
   description: The leadership team for ACM
   chairs: Tommy Yu
+  chairContact: tjyu3
   members:
     - Tommy Yu
     - Rauhul Varma
@@ -34,6 +35,7 @@
     communication between ACM and campus technology management groups such as Engineering IT and
     Technology Services.
   chairs: Aashish Kapur
+  chairContact: askapur2
   members:
     - Aashish Kapur
     - Ish Shah
@@ -55,6 +57,7 @@
 - name: Corporate
   description: Corporate committee
   chairs: Ann Rajan, Min Park, Vivek Vaidya
+  chairContact: amrajan2
   members:
     - Ann Rajan
     - Min Park
@@ -96,6 +99,7 @@
     The Events committee organizes all ACM events, including Reflections | Projections and
     HackIllinois.
   chairs: Sujay Khandekar
+  chairContact: khandek2
   members:
     - Sujay Khandekar
     - Shivali Patel
@@ -123,6 +127,7 @@
 - name: Projects
   description: Projects manages all of the engineering efforts for ACM@UIUC.
   chairs: Naren Dasan
+  chairContact: N/A
   members:
     - Naren Dasan
     - Ben Congdon
@@ -142,6 +147,7 @@
 - name: Social
   description: Organize social events for ACM@UIUC!
   chairs: Ananya Cleetus
+  chairContact: cleetus2
   members:
     - Ananya Cleetus
     - Caren Zeng
