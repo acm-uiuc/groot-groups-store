@@ -43,10 +43,10 @@
 - name: SIGBot
   description: Special Interest Group for Robotics
   chairs: Adrian Brandemuehl
-  meetingTime: '3:00 PM'
-  meetingDay: Friday
-  meetingLoc: Siebel 1110
-  site: https://www.facebook.com/groups/sigbot/
+  meetingTime: '12:00 PM'
+  meetingDay: Saturday
+  meetingLoc: Siebel 1106
+  site: http://illinoisauv.com/
   members: []
   email: "SIGBot@acm.illinois.edu"
 
