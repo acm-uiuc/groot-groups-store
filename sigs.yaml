@@ -103,8 +103,8 @@
 - name: SIGOps
   description: Special Interest Group for Operating Systems
   chairs: Tanishq Dubey
-  meetingTime: '7:00 PM'
-  meetingDay: Wednesday
+  meetingTime: '6:30 PM'
+  meetingDay: Monday
   meetingLoc: Siebel 4405
   site: 'http://www.acm.illinois.edu/sigops/'
   members: []
