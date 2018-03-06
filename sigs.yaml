@@ -132,10 +132,10 @@
 
 - name: Webmonkeys
   description: Special Interest Group for Web Development
-  chairs: Pranay Prakash
+  chairs: Timothy Ko, Pranay Prakash
   meetingTime: '6:00 PM'
   meetingDay: Tuesday
-  meetingLoc: Siebel 1105
+  meetingLoc: Siebel 1302
   site: 'http://www.acm.illinois.edu/webmonkeys'
   members: []
   email: 'Webmonkeys-l@acm.illinois.edu'
