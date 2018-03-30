@@ -38,7 +38,6 @@
   chairContact: askapur2
   members:
     - Aashish Kapur
-    - Ish Shah
     - Kevin Wang
     - Rauhul Varma
     - Sameet Sapra
@@ -46,18 +45,17 @@
     - Naren Dasan
   netids:
     - askapur2
-    - ishshah2
     - klwang3
     - rvarma2
     - ssapra2
     - bcongdo2
     - sivagna2
-  email: Admin-l@acm.illinois.edu
+  email: admin-l@acm.illinois.edu
 
 - name: Corporate
   description: Corporate committee
-  chairs: Ann Rajan, Min Park, Vivek Vaidya
-  chairContact: amrajan2
+  chairs: Min Park
+  chairContact: minhyuk2
   members:
     - Ann Rajan
     - Min Park
@@ -76,9 +74,9 @@
     - Justin Yang
     - Tommy Yu
   netids:
-    - vkv2
-    - minhyuk2
     - amrajan2
+    - minhyuk2
+    - vkv2
     - sivagna2
     - ericdl2
     - ssapra2
@@ -92,42 +90,42 @@
     - ssv2
     - justiny2
     - tjyu3
-  email: Corporate-l@acm.illinois.edu
+  email: corporate-l@acm.illinois.edu
 
 - name: Events
   description: >
     The Events committee organizes all ACM events, including Reflections | Projections and
     HackIllinois.
-  chairs: Sujay Khandekar
-  chairContact: khandek2
+  chairs: Tyler Kim
+  chairContact: tkim139
   members:
-    - Sujay Khandekar
+    - Tyler Kim
     - Shivali Patel
     - Kevin Hong
     - Yasha Mostofi
     - Tommy Yu
   netids:
-    - khandek2
+    - tkim139
     - supatel2
     - khong18
     - mostofi2
     - tjyu3
-  email: Events-l@acm.illinois.edu
+  email: events-l@acm.illinois.edu
   roles:
     - name: Events Chair
-      holder: Sujay Khandekar
+      holder: Tyler Kim
       email: events-l@acm.illinois.edu
     - name: Directors of HackIllinois
       holder: Kevin Hong, Yasha Mostofi
       email: contact@hackillinois.org
     - name: Chairs of Reflections|Projections
       holder: Shivali Patel
-      email: Conference@acm.illinois.edu
+      email: conference@acm.illinois.edu
 
 - name: Projects
   description: Projects manages all of the engineering efforts for ACM@UIUC.
   chairs: Naren Dasan
-  chairContact: N/A
+  chairContact: sivagna2
   members:
     - Naren Dasan
     - Ben Congdon
@@ -142,7 +140,7 @@
     - rvarma2
   meetingTime: '6:30 PM'
   meetingDay: Monday
-  email: Projects-l@acm.illinois.edu
+  email: projects-l@acm.illinois.edu
 
 - name: Social
   description: Organize social events for ACM@UIUC!
@@ -154,4 +152,4 @@
   netids:
     - cleetus2
     - carenz2
-  email: Social-l@acm.illinois.edu
+  email: social-l@acm.illinois.edu
