@@ -1,30 +1,30 @@
 ---
 - name: Top4
   description: The leadership team for ACM
-  chairs: Tommy Yu
+  chairs: Caren Zeng
   members:
-    - Tommy Yu
-    - Rauhul Varma
     - Caren Zeng
-    - Eric Lee
+    - Rishi Desai
+    - Soumya Kuruvila
+    - Arnav Sankaran
   netids:
-    - tjyu3
-    - rvarma2
     - carenz2
-    - ericdl2
+    - rishipd2
+    - soumyak2
+    - arnavs3
   email: acm@illinois.edu
   roles:
     - name: Chair
-      holder: Tommy Yu
+      holder: Caren Zeng
       email: acm@illinois.edu
     - name: Vice-Chair
-      holder: Rauhul Varma
+      holder: Rishi Desai
       email: vice-chair@acm.illinois.edu
     - name: Treasurer
-      holder: Eric Lee
+      holder: Arnav Sankaran
       email: treasurer@acm.illinois.edu
     - name: Secretary
-      holder: Caren Zeng
+      holder: Soumya Kuruvila
       email: secretary@acm.illinois.edu
 
 - name: Admin
