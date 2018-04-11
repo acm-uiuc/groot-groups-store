@@ -110,16 +110,6 @@
   members: []
   email: 'SIGOps-l@acm.illinois.edu'
 
-- name: SIGPlan
-  description: Special Interest Group for Programming Languages
-  chairs: Remy Goldschmidt
-  meetingTime: '3:00 PM'
-  meetingDay: Sunday
-  meetingLoc: Siebel 2407
-  site: 'http://category.engineering/'
-  members: []
-  email: 'SIGPLAN-l@acm.illinois.edu'
-
 - name: SIGPwny
   description: Special Interest Group for Security
   chairs: Alex Mitsdarfer
@@ -140,16 +130,6 @@
   members: []
   email: 'Webmonkeys-l@acm.illinois.edu'
 
-- name: IlliniHackers
-  description: Special Interest Group for Hackathons
-  chairs: Yasha Mostofi, Arnav Mishra
-  meetingTime: '7:30 PM'
-  meetingDay: Thursday
-  meetingLoc: Siebel 1214
-  site: 'illinihackers.org'
-  members: []
-  email: 'contact@illinihackers.org'
-
 - name: SIGVR
   description: Special Interest Group for Virtual Reality
   chairs: Shashank Saxena
@@ -169,13 +149,3 @@
   site: 'http://www.acm.illinois.edu/sigir'
   members: []
   email: 'SIGIR-l@acm.illinois.edu'
-
-- name: SIGSpatial
-  description: Special Interest Group for Spatial and Vision
-  chairs: Anselmo Shim
-  meetingTime: ''
-  meetingDay: ''
-  meetingLoc: ''
-  site: ''
-  members: []
-  email: ''
