@@ -95,26 +95,30 @@
   description: >
     The Events committee organizes all ACM events, including Reflections | Projections and
     HackIllinois.
-  chairs: Sujay Khandekar
+  chairs: Yasha Mostofi
   members:
-    - Sujay Khandekar
     - Shivali Patel
     - Kevin Hong
     - Yasha Mostofi
-    - Tommy Yu
+    - Caren Zeng
+    - Rishi Desai
+    - Aparajitha Adiraju
+    - Spencer Gilbert
   netids:
-    - khandek2
     - supatel2
     - khong18
     - mostofi2
-    - tjyu3
+    - carenz2
+    - rishipd2
+    - adiraju2
+    - smg4
   email: Events-l@acm.illinois.edu
   roles:
     - name: Events Chair
-      holder: Sujay Khandekar
+      holder: Yasha Mostofi
       email: events-l@acm.illinois.edu
     - name: Directors of HackIllinois
-      holder: Kevin Hong, Yasha Mostofi
+      holder: Aparajitha Adiraju, Spencer Gilbert
       email: contact@hackillinois.org
     - name: Chairs of Reflections|Projections
       holder: Shivali Patel
@@ -129,12 +133,14 @@
     - Sameet Sapra
     - Aashish Kapur
     - Rauhul Varma
+    - Rishi Desai
   netids:
     - sivagna2
     - bcongdo2
     - ssapra2
     - askapur2
     - rvarma2
+    - rishipd2
   meetingTime: '6:30 PM'
   meetingDay: Monday
   email: Projects-l@acm.illinois.edu
