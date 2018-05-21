@@ -36,7 +36,6 @@
   chairs: Aashish Kapur
   members:
     - Aashish Kapur
-    - Ish Shah
     - Rauhul Varma
     - Sameet Sapra
     - Benjamin Congdon
@@ -44,7 +43,6 @@
     - Rishi Desai
   netids:
     - askapur2
-    - ishshah2
     - rvarma2
     - ssapra2
     - bcongdo2
@@ -54,71 +52,62 @@
 
 - name: Corporate
   description: Corporate committee
-  chairs: Ann Rajan, Min Park, Vivek Vaidya
+  chairs: Soumya Kuruvila
   members:
-    - Ann Rajan
+    - Soumya Kuruvila
+    - Saksham Gupta
+    - Aneesh Mysore
     - Min Park
+    - Cecilia Ding
     - Vivek Vaidya
-    - Naren Dasan
-    - Eric Lee
     - Sameet Sapra
     - Caren Zeng
-    - Shivali Patel
-    - Will Robbins
-    - Daniel Zou
-    - Benjamin Correll
-    - Arnav Mishra
-    - Kevin Hong
-    - Saketh Vasamsetti
-    - Justin Yang
-    - Tommy Yu
   netids:
-    - vkv2
+    - soumyak2
+    - saksham3
+    - amysore2
     - minhyuk2
-    - amrajan2
-    - sivagna2
-    - ericdl2
+    - cding20
+    - vkv2
     - ssapra2
     - carenz2
-    - supatel2
-    - wrobbin2
-    - dzou2
-    - bcorrel2
-    - agmishr2
-    - khong18
-    - ssv2
-    - justiny2
-    - tjyu3
   email: Corporate-l@acm.illinois.edu
 
 - name: Events
   description: >
     The Events committee organizes all ACM events, including Reflections | Projections and
     HackIllinois.
-  chairs: Sujay Khandekar
+  chairs: Yasha Mostofi
   members:
-    - Sujay Khandekar
-    - Shivali Patel
     - Kevin Hong
     - Yasha Mostofi
-    - Tommy Yu
+    - Caren Zeng
+    - Rishi Desai
+    - Aparajitha Adiraju
+    - Spencer Gilbert
+    - Nikhil Modak
+    - Vidushi Rai
   netids:
-    - khandek2
     - supatel2
     - khong18
     - mostofi2
-    - tjyu3
+    - carenz2
+    - rishipd2
+    - adiraju2
+    - smg4
+    - nmodak2
+    - vrai2
   email: Events-l@acm.illinois.edu
   roles:
     - name: Events Chair
-      holder: Sujay Khandekar
+      holder: Yasha Mostofi
       email: events-l@acm.illinois.edu
     - name: Directors of HackIllinois
-      holder: Kevin Hong, Yasha Mostofi
+      holder: Aparajitha Adiraju, Spencer Gilbert
       email: contact@hackillinois.org
     - name: Chairs of Reflections|Projections
-      holder: Shivali Patel
-      email: Conference@acm.illinois.edu
+      holder: Nikhil Modak, Vidushi Rai
+      email: conference@acm.illinois.edu
 
 - name: Projects
   description: Projects manages all of the engineering efforts for ACM@UIUC.
@@ -129,23 +118,23 @@
     - Sameet Sapra
     - Aashish Kapur
     - Rauhul Varma
+    - Rishi Desai
   netids:
     - sivagna2
     - bcongdo2
     - ssapra2
     - askapur2
     - rvarma2
+    - rishipd2
   meetingTime: '6:30 PM'
   meetingDay: Monday
   email: Projects-l@acm.illinois.edu
 
 - name: Social
   description: Organize social events for ACM@UIUC!
-  chairs: Ananya Cleetus
+  chairs: Kyle Begovich
   members:
-    - Ananya Cleetus
-    - Caren Zeng
+    - Kyle Begovich
   netids:
-    - cleetus2
-    - carenz2
+    - begovic2
   email: Social-l@acm.illinois.edu
