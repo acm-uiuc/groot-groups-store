@@ -140,12 +140,12 @@
   members: []
   email: 'VRST-l@acm.illinois.edu'
 
-- name: SIGIR
-  description: Special Interest Group for Information Retrieval
-  chairs: Aidan San, Ethan Cheng
-  meetingTime: 5pm
+- name: SIGNLL
+  description: Special Interest Group for Natural Language Learning
+  chairs: Aidan San
+  meetingTime: '5:00 PM'
   meetingDay: Wednesday
-  meetingLoc: Siebel 1109
-  site: 'http://www.acm.illinois.edu/sigir'
+  meetingLoc: Siebel 1214
+  site: 'https://www.facebook.com/groups/uiucsignll'
   members: []
   email: 'SIGIR-l@acm.illinois.edu'
