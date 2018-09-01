@@ -1,7 +1,7 @@
 ---
 - name: Gamebuilders
   description: Anything and everything related to game development
-  chairs: Victor Mouschovias
+  chairs: Jack Ducham
   meetingTime: '7:00 PM'
   meetingDay: Monday
   meetingLoc: Siebel 3403
@@ -32,7 +32,7 @@
 
 - name: SIGAI
   description: Special Interest Group for Artificial Intelligence
-  chairs: Akshay Mishra and Shotaro Ikeda
+  chairs: Erik Hernandez, Michael McGuire, Kshitij Gupta
   meetingTime: '7pm-9pm'
   meetingDay: 'Monday'
   meetingLoc: 'Siebel 1111'
@@ -42,7 +42,7 @@
 
 - name: SIGBot
   description: Special Interest Group for Robotics
-  chairs: Adrian Brandemuehl
+  chairs: Ricky Cheng, Marc Backas
   meetingTime: '12:00 PM'
   meetingDay: Saturday
   meetingLoc: Siebel 1106
@@ -52,7 +52,7 @@
 
 - name: SIGCHI
   description: Special Interest Group for Human-Computer Interaction.
-  chairs: Andrew Kuznetsov
+  chairs: Jeffrey Tsai
   meetingTime: '5:00 PM'
   meetingDay: Wednesday
   meetingLoc: Siebel 1302
@@ -62,7 +62,7 @@
 
 - name: SIGGRAPH
   description: Special Interest Group for Graphics
-  chairs: Jasmine Shih, Amanda Yu
+  chairs: Sam McFadden, Ribhav Jain
   meetingTime: '7:00 PM'
   meetingDay: Monday
   meetingLoc: TBD
@@ -72,7 +72,7 @@
 
 - name: ADSA
   description: Association of Data Science and Analytics
-  chairs: Harshit Agarwal
+  chairs: Sharan Arkalgud
   meetingTime: 'TBD'
   meetingDay: ''
   meetingLoc: ''
@@ -112,7 +112,7 @@
 
 - name: SIGPwny
   description: Special Interest Group for Security
-  chairs: Alex Mitsdarfer
+  chairs: Evan Johnson
   meetingTime: '5:00 PM'
   meetingDay: Thursday
   meetingLoc: Siebel 1109
@@ -122,7 +122,7 @@
 
 - name: Webmonkeys
   description: Special Interest Group for Web Development
-  chairs: Timothy Ko, Pranay Prakash
+  chairs: Jonathan Xu, David Wang
   meetingTime: '6:00 PM'
   meetingDay: Tuesday
   meetingLoc: Siebel 1302
