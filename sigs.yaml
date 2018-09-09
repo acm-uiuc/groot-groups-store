@@ -4,7 +4,7 @@
   chairs: Jack Ducham
   meetingTime: '7:00 PM'
   meetingDay: Monday
-  meetingLoc: Siebel 3403
+  meetingLoc: Siebel 3405
   site: http://www.acm.illinois.edu/gamebuilders/
   members: []
   email: Gamebuilders@acm.illinois.edu
@@ -12,9 +12,9 @@
 - name: GLUG
   description: GNU/Linux Users Group
   chairs: Maanu Grover, Evan Widloski
-  meetingTime: '7:00 PM'
-  meetingDay: Thursday
-  meetingLoc: Siebel 1109
+  meetingTime: '6:00 PM'
+  meetingDay: Tuesday
+  meetingLoc: Siebel 1105
   site: http://www.gnulug.org/
   members: []
   email: glug@acm.illinois.edu
@@ -23,9 +23,9 @@
   description: Facilitate the development of contest programming skills, with the
     goal of producing highly competitive teams in the prestigious ACM ICPC competition.
   chairs: Arthur Li, Matthew Worley
-  meetingTime: '7:00 PM'
-  meetingDay: Monday
-  meetingLoc: Siebel 0218
+  meetingTime: '6:30 PM'
+  meetingDay: Sunday
+  meetingLoc: Siebel 0224
   site: " http://icpc.cs.illinois.edu/"
   members: []
   email: ICPC-l@acm.illinois.edu
@@ -42,10 +42,10 @@
 
 - name: SIGBot
   description: Special Interest Group for Robotics
-  chairs: Ricky Cheng, Marc Backas
+  chairs: Ricky Cheng
   meetingTime: '12:00 PM'
-  meetingDay: Saturday
-  meetingLoc: Siebel 1106
+  meetingDay: Saturday & Sunday
+  meetingLoc: Siebel 1131
   site: http://illinoisauv.com/
   members: []
   email: "SIGBot@acm.illinois.edu"
@@ -53,9 +53,9 @@
 - name: SIGCHI
   description: Special Interest Group for Human-Computer Interaction.
   chairs: Jeffrey Tsai
-  meetingTime: '5:00 PM'
+  meetingTime: '7:00 PM'
   meetingDay: Wednesday
-  meetingLoc: Siebel 1302
+  meetingLoc: Siebel 2102
   site: http://www.acm.illinois.edu/sigchi
   members: []
   email: SIGCHI-l@acm.illinois.edu
@@ -65,7 +65,7 @@
   chairs: Sam McFadden, Ribhav Jain
   meetingTime: '7:00 PM'
   meetingDay: Monday
-  meetingLoc: TBD
+  meetingLoc: Siebel 3401
   site: 'http://illinois.siggraph.org/'
   members: []
   email: 'SIGGRAPH-Announce@acm.illinois.edu'
@@ -73,9 +73,9 @@
 - name: ADSA
   description: Association of Data Science and Analytics
   chairs: Sharan Arkalgud
-  meetingTime: 'TBD'
-  meetingDay: ''
-  meetingLoc: ''
+  meetingTime: '2:00 PM'
+  meetingDay: Sunday
+  meetingLoc: Siebel 1105
   site: 'facebook.com/adsauiuc'
   members: []
   email: 'SIGMis-l@acm.illinois.edu'
@@ -85,14 +85,14 @@
   chairs: Zihan Wang
   meetingTime: '2:00 PM'
   meetingDay: Sunday
-  meetingLoc: Siebel 1109
+  meetingLoc: Siebel 1103
   site: 'http://github.com/SIGMobileUIUC'
   members: []
   email: 'SIGMobile-l@acm.illinois.edu'
 
 - name: SIGMusic
   description: Special Interest Group for Music
-  chairs: Dean Cannon
+  chairs: Rishu Bagga
   meetingTime: 'TBA'
   meetingDay: TBA
   meetingLoc: TBA
@@ -100,22 +100,12 @@
   members: []
   email: 'SIGMusic-l@acm.illinois.edu'
 
-- name: SIGOps
-  description: Special Interest Group for Operating Systems
-  chairs: Tanishq Dubey
-  meetingTime: '6:30 PM'
-  meetingDay: Monday
-  meetingLoc: Siebel 4405
-  site: 'http://www.acm.illinois.edu/sigops/'
-  members: []
-  email: 'SIGOps-l@acm.illinois.edu'
-
 - name: SIGPwny
   description: Special Interest Group for Security
   chairs: Evan Johnson
   meetingTime: '5:00 PM'
   meetingDay: Thursday
-  meetingLoc: Siebel 1109
+  meetingLoc: Siebel 3403
   site: 'http://www.acm.illinois.edu/sigpwny'
   members: []
   email: 'SIGPony-l@acm.illinois.edu'
@@ -125,20 +115,10 @@
   chairs: Jonathan Xu, David Wang
   meetingTime: '6:00 PM'
   meetingDay: Tuesday
-  meetingLoc: Siebel 1302
+  meetingLoc: Siebel 1304
   site: 'http://www.acm.illinois.edu/webmonkeys'
   members: []
   email: 'Webmonkeys-l@acm.illinois.edu'
-
-- name: SIGVR
-  description: Special Interest Group for Virtual Reality
-  chairs: Shashank Saxena
-  meetingTime: '6:30 PM'
-  meetingDay: Saturday
-  meetingLoc: Siebel 3404
-  site: 'http://www.acm.illinois.edu/sigvrst'
-  members: []
-  email: 'VRST-l@acm.illinois.edu'
 
 - name: SIGNLL
   description: Special Interest Group for Natural Language Learning
@@ -149,3 +129,13 @@
   site: 'https://www.facebook.com/groups/uiucsignll'
   members: []
   email: 'SIGIR-l@acm.illinois.edu'
+
+- name: SIGArch
+  description: Special Interest Group for Architecture
+  chairs: Lucas Hsiung, Evan Lissoos, Nick Horcher
+  meetingTime: '6:00 PM'
+  meetingDay: Wednesday
+  meetingLoc: Siebel 1111
+  site: ''
+  members: []
+  email: 'SIGArch-l@acm.illinois.edu'
