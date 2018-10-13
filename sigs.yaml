@@ -106,7 +106,7 @@
   meetingTime: '5:00 PM'
   meetingDay: Thursday
   meetingLoc: Siebel 3403
-  site: 'http://www.acm.illinois.edu/sigpwny'
+  site: 'https://sigpwny.github.io/'
   members: []
   email: 'SIGPony-l@acm.illinois.edu'
 
