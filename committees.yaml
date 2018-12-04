@@ -62,8 +62,8 @@
     - Vivek Vaidya
     - Sameet Sapra
     - Caren Zeng
-    - Vidushi Rai
-    - Nikhil Modak
+    - Saksham Gupta
+    - Ziv Kaputa
   netids:
     - soumyak2
     - saksham3
@@ -73,8 +73,8 @@
     - vkv2
     - ssapra2
     - carenz2
-    - vrai2
-    - nmodak2
+    - saksham3
+    - zkaputa2
   email: Corporate-l@acm.illinois.edu
 
 - name: Events
@@ -83,24 +83,21 @@
     HackIllinois.
   chairs: Yasha Mostofi
   members:
-    - Kevin Hong
     - Yasha Mostofi
     - Caren Zeng
     - Rishi Desai
     - Aparajitha Adiraju
     - Spencer Gilbert
-    - Nikhil Modak
-    - Vidushi Rai
+    - Saksham Gupta
+    - Ziv Kaputa
   netids:
-    - supatel2
-    - khong18
     - mostofi2
     - carenz2
     - rishipd2
     - adiraju2
     - smg4
-    - nmodak2
-    - vrai2
+    - saksham3
+    - zkaputa2
   email: Events-l@acm.illinois.edu
   roles:
     - name: Events Chair
@@ -110,7 +107,7 @@
       holder: Aparajitha Adiraju, Spencer Gilbert
       email: contact@hackillinois.org
     - name: Chairs of Reflections|Projections
-      holder: Nikhil Modak, Vidushi Rai
+      holder: Saksham Gupta, Ziv Kaputa
       email: conference@acm.illinois.edu
 
 - name: Projects
