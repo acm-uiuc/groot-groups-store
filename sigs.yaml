@@ -102,11 +102,11 @@
 
 - name: SIGPwny
   description: Special Interest Group for Security
-  chairs: Evan Johnson
-  meetingTime: '5:00 PM'
+  chairs: Evan Johnson and Ian Klatzco
+  meetingTime: '7:00 PM'
   meetingDay: Thursday
-  meetingLoc: Siebel 3403
-  site: 'https://sigpwny.github.io/'
+  meetingLoc: ECEB 3013
+  site: 'https://sigpwny.com'
   members: []
   email: 'SIGPony-l@acm.illinois.edu'
 
