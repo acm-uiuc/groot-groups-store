@@ -22,13 +22,13 @@
 - name: ICPC
   description: Facilitate the development of contest programming skills, with the
     goal of producing highly competitive teams in the prestigious ACM ICPC competition.
-  chairs: Arthur Li, Matthew Worley
-  meetingTime: '6:30 PM'
-  meetingDay: Sunday
+  chairs: Gary Liu
+  meetingTime: '7:00 PM'
+  meetingDay: Monday
   meetingLoc: Siebel 0224
   site: " http://icpc.cs.illinois.edu/"
   members: []
-  email: ICPC-l@acm.illinois.edu
+  email: icpc@cs.illinois.edu
 
 - name: SIGAI
   description: Special Interest Group for Artificial Intelligence
