@@ -52,29 +52,32 @@
 
 - name: Corporate
   description: Corporate committee
-  chairs: Soumya Kuruvila
+  chairs: Cecilia Ding
   members:
     - Soumya Kuruvila
-    - Saksham Gupta
-    - Aneesh Mysore
+    - Chaitanya Sood
     - Min Park
     - Cecilia Ding
-    - Vivek Vaidya
-    - Sameet Sapra
+    - Jaewook Lee
     - Caren Zeng
-    - Saksham Gupta
-    - Ziv Kaputa
+    - Qianfan Song
+    - Rishu Bagga
+    - Simran Desai
+    - Trishul Sathiyamoorthy
+    - Vivek Gupta
   netids:
     - soumyak2
-    - saksham3
-    - amysore2
+    - csood2
     - minhyuk2
     - cding20
-    - vkv2
-    - ssapra2
+    - jaewook4
     - carenz2
-    - saksham3
-    - zkaputa2
+    - qianfan2
+    - rbagga2
+    - sdesai51
+    - trishul2
+    - vivekg2
+    
   email: Corporate-l@acm.illinois.edu
 
 - name: Events
