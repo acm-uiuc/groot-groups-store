@@ -1,30 +1,30 @@
 ---
 - name: Top4
   description: The leadership team for ACM
-  chairs: Caren Zeng
+  chairs: Arnav Sankaran
   members:
-    - Caren Zeng
-    - Rishi Desai
-    - Soumya Kuruvila
     - Arnav Sankaran
+    - Asher Dale
+    - Martin Juskelis
+    - Dev Satpathy
   netids:
-    - carenz2
-    - rishipd2
-    - soumyak2
     - arnavs3
+    - asdale2
+    - mpj4
+    - devyesh2
   email: acm@illinois.edu
   roles:
     - name: Chair
-      holder: Caren Zeng
+      holder: Arnav Sankaran
       email: acm@illinois.edu
     - name: Vice-Chair
-      holder: Rishi Desai
+      holder: Asher Dale
       email: vice-chair@acm.illinois.edu
     - name: Treasurer
-      holder: Arnav Sankaran
+      holder: Martin Juskelis
       email: treasurer@acm.illinois.edu
     - name: Secretary
-      holder: Soumya Kuruvila
+      holder: Dev Satpathy
       email: secretary@acm.illinois.edu
 
 - name: Admin
