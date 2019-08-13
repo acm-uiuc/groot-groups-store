@@ -1,7 +1,7 @@
 ---
 - name: Gamebuilders
   description: Anything and everything related to game development
-  chairs: Jack Ducham
+  chairs: Jean-Luc Belous, Aditya Bawankule
   meetingTime: '7:00 PM'
   meetingDay: Monday
   meetingLoc: Siebel 3405
@@ -11,7 +11,7 @@
 
 - name: GLUG
   description: GNU/Linux Users Group
-  chairs: Maanu Grover, Evan Widloski
+  chairs: Jav
   meetingTime: '6:00 PM'
   meetingDay: Thursday
   meetingLoc: Siebel 1105
@@ -22,7 +22,7 @@
 - name: ICPC
   description: Facilitate the development of contest programming skills, with the
     goal of producing highly competitive teams in the prestigious ACM ICPC competition.
-  chairs: Gary Liu
+  chairs: Scott Kim
   meetingTime: '7:00 PM'
   meetingDay: Monday
   meetingLoc: Siebel 0224
@@ -32,7 +32,7 @@
 
 - name: SIGAI
   description: Special Interest Group for Artificial Intelligence
-  chairs: Erik Hernandez, Michael McGuire, Kshitij Gupta
+  chairs: Arjun Gupta, Jeffrey Lai
   meetingTime: '7pm-9pm'
   meetingDay: 'Monday'
   meetingLoc: 'Siebel 1111'
@@ -42,7 +42,7 @@
 
 - name: SIGBot
   description: Special Interest Group for Robotics
-  chairs: Ricky Cheng
+  chairs: Ananmay Jain
   meetingTime: '12:00 PM'
   meetingDay: Saturday & Sunday
   meetingLoc: Siebel 1131
@@ -62,7 +62,7 @@
 
 - name: SIGGRAPH
   description: Special Interest Group for Graphics
-  chairs: Sam McFadden, Ribhav Jain
+  chairs: Chen Qian
   meetingTime: '7:00 PM'
   meetingDay: Monday
   meetingLoc: Siebel 3401
@@ -72,7 +72,7 @@
 
 - name: ADSA
   description: Association of Data Science and Analytics
-  chairs: Sharan Arkalgud
+  chairs: Bailey Tincher
   meetingTime: '2:00 PM'
   meetingDay: Sunday
   meetingLoc: Siebel 1105
@@ -82,7 +82,7 @@
 
 - name: SIGMobile
   description: Special Interst Group for Mobile Development
-  chairs: Zihan Wang
+  chairs: Patrick Feltes
   meetingTime: '2:00 PM'
   meetingDay: Sunday
   meetingLoc: Siebel 1103
@@ -92,7 +92,7 @@
 
 - name: SIGMusic
   description: Special Interest Group for Music
-  chairs: Rishu Bagga
+  chairs: Sahil Patel, Melissa Chen, Shoji Moto
   meetingTime: 'TBA'
   meetingDay: TBA
   meetingLoc: TBA
@@ -102,7 +102,7 @@
 
 - name: SIGPwny
   description: Special Interest Group for Security
-  chairs: Evan Johnson and Ian Klatzco
+  chairs: Joseph Ravichandran
   meetingTime: '7:00 PM'
   meetingDay: Thursday
   meetingLoc: ECEB 3013
@@ -112,7 +112,7 @@
 
 - name: Webmonkeys
   description: Special Interest Group for Web Development
-  chairs: Jonathan Xu, David Wang
+  chairs: TBD
   meetingTime: '6:00 PM'
   meetingDay: Tuesday
   meetingLoc: Siebel 1304
@@ -122,7 +122,7 @@
 
 - name: SIGNLL
   description: Special Interest Group for Natural Language Learning
-  chairs: Aidan San
+  chairs: Jackie Oh, Jason Xia
   meetingTime: '5:00 PM'
   meetingDay: Wednesday
   meetingLoc: Siebel 1214
@@ -139,3 +139,23 @@
   site: ''
   members: []
   email: 'SIGArch-l@acm.illinois.edu'
+
+- name: SIGPlan
+  description: Special Interest Group for Programming Languages
+  chairs: Reed Oei
+  meetingTime: 'TBA'
+  meetingDay: TBA
+  meetingLoc: TBA
+  site: ''
+  members: []
+  email: ''
+
+- name: SIGQuantum
+  description: Special Interest Group for Quantum Computing
+  chairs: Bailey Tincher
+  meetingTime: 'TBA'
+  meetingDay: TBA
+  meetingLoc: TBA
+  site: ''
+  members: []
+  email: ''
