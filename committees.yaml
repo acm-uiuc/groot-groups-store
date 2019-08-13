@@ -82,33 +82,24 @@
   email: Corporate-l@acm.illinois.edu
 
 - name: Events
-  description: >
-    The Events committee organizes all ACM events, including Reflections | Projections and
-    HackIllinois.
-  chairs: Yasha Mostofi
+  description: ACM runs the Reflections | Projections and HackIllinois events every year.
+  chairs: Arnav Sankaran
   members:
-    - Yasha Mostofi
-    - Caren Zeng
-    - Rishi Desai
-    - Aparajitha Adiraju
-    - Spencer Gilbert
+    - Arnav Sankaran
+    - Melissa Chen
+    - Sathwik Pochampally
     - Saksham Gupta
     - Ziv Kaputa
   netids:
-    - mostofi2
-    - carenz2
-    - rishipd2
-    - adiraju2
-    - smg4
+    - arnavs3
+    - myc2
+    - sathwik2
     - saksham3
     - zkaputa2
   email: Events-l@acm.illinois.edu
   roles:
-    - name: Events Chair
-      holder: Yasha Mostofi
-      email: events-l@acm.illinois.edu
     - name: Directors of HackIllinois
-      holder: Aparajitha Adiraju, Spencer Gilbert
+      holder: Melissa Chen, Sathwik Pochampally
       email: contact@hackillinois.org
     - name: Chairs of Reflections|Projections
       holder: Saksham Gupta, Ziv Kaputa
