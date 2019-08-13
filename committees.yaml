@@ -110,9 +110,9 @@
 
 - name: Social
   description: Organize social events for ACM@UIUC!
-  chairs: Kyle Begovich
+  chairs: Nathaniel Cohen
   members:
-    - Kyle Begovich
+    - Nathaniel Cohen
   netids:
-    - begovic2
+    - njcohen2
   email: Social-l@acm.illinois.edu
