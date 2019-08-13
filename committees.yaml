@@ -100,6 +100,14 @@
   meetingDay: Monday
   email: Projects-l@acm.illinois.edu
 
+- name: Outreach
+  description: Outreach manages the non-engineering efforts for ACM@UIUC, including mentorship and design.
+  chairs: Jeffrey Zhang
+  members:
+    - Jeffrey Zhang
+  netids:
+    - jfzhang2
+
 - name: Social
   description: Organize social events for ACM@UIUC!
   chairs: Kyle Begovich
