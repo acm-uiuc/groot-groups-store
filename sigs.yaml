@@ -1,20 +1,20 @@
 ---
 - name: Gamebuilders
   description: Anything and everything related to game development
-  chairs: Jean-Luc Belous, Aditya Bawankule
-  meetingTime: 'TBA'
-  meetingDay: TBA
-  meetingLoc: TBA
+  chairs: Aditya Bawankule
+  meetingTime: '7:00 PM - 8:30 PM'
+  meetingDay: Monday
+  meetingLoc: Siebel 3405
   site: http://www.acm.illinois.edu/gamebuilders/
   members: []
   email: Gamebuilders@acm.illinois.edu
 
 - name: GLUG
   description: GNU/Linux Users Group
-  chairs: Jav
-  meetingTime: 'TBA'
-  meetingDay: TBA
-  meetingLoc: TBA
+  chairs: Jav Mohamed
+  meetingTime: '6:00 PM - 7:00 PM'
+  meetingDay: Wednesday
+  meetingLoc: Siebel 1103
   site: http://www.gnulug.org/
   members: []
   email: glug@acm.illinois.edu
@@ -23,19 +23,19 @@
   description: Facilitate the development of contest programming skills, with the
     goal of producing highly competitive teams in the prestigious ACM ICPC competition.
   chairs: Scott Kim
-  meetingTime: 'TBA'
-  meetingDay: TBA
-  meetingLoc: TBA
+  meetingTime: '7:00 PM - 9:00 PM'
+  meetingDay: Wednesday
+  meetingLoc: Siebel 1214
   site: " http://icpc.cs.illinois.edu/"
   members: []
   email: icpc@cs.illinois.edu
 
 - name: SIGAI
   description: Special Interest Group for Artificial Intelligence
-  chairs: Arjun Gupta, Jeffrey Lai
-  meetingTime: 'TBA'
-  meetingDay: TBA
-  meetingLoc: TBA
+  chairs: Erik Hernandez, Jeffrey Lai, Arjun Gupta
+  meetingTime: '7pm-9pm'
+  meetingDay: 'Monday, Wednesday'
+  meetingLoc: 'Siebel 1109'
   site: https://sigai.ml
   members: []
   email: SIGArt-l@acm.illinois.edu
@@ -43,9 +43,9 @@
 - name: SIGBot
   description: Special Interest Group for Robotics
   chairs: Ananmay Jain
-  meetingTime: 'TBA'
-  meetingDay: TBA
-  meetingLoc: TBA
+  meetingTime: '12:00 PM - 2:00 PM'
+  meetingDay: Saturday & Sunday
+  meetingLoc: Siebel 1104
   site: http://illinoisauv.com/
   members: []
   email: "SIGBot@acm.illinois.edu"
@@ -53,9 +53,9 @@
 - name: SIGCHI
   description: Special Interest Group for Human-Computer Interaction.
   chairs: Jeffrey Tsai
-  meetingTime: 'TBA'
-  meetingDay: TBA
-  meetingLoc: TBA
+  meetingTime: '5:00 PM - 7:00 PM'
+  meetingDay: Wednesday
+  meetingLoc: Siebel 2102
   site: http://www.acm.illinois.edu/sigchi
   members: []
   email: SIGCHI-l@acm.illinois.edu
@@ -63,9 +63,9 @@
 - name: SIGGRAPH
   description: Special Interest Group for Graphics
   chairs: Chen Qian
-  meetingTime: 'TBA'
-  meetingDay: TBA
-  meetingLoc: TBA
+  meetingTime: '2:00 PM - 4:00 PM'
+  meetingDay: Saturday
+  meetingLoc: TBD
   site: 'http://illinois.siggraph.org/'
   members: []
   email: 'SIGGRAPH-Announce@acm.illinois.edu'
@@ -73,29 +73,39 @@
 - name: ADSA
   description: Association of Data Science and Analytics
   chairs: Bailey Tincher
-  meetingTime: 'TBA'
-  meetingDay: TBA
-  meetingLoc: TBA
+  meetingTime: '2:00 PM - 6:00 PM'
+  meetingDay: Sunday
+  meetingLoc: Siebel 1109
   site: 'facebook.com/adsauiuc'
   members: []
   email: 'SIGMis-l@acm.illinois.edu'
 
+- name: QUIUC
+  description: Special Interest Group for Quantum Computing
+  chairs: Bailey Tincher
+  meetingTime: '1:00 PM - 5:00 PM'
+  meetingDay: Sunday
+  meetingLoc: Siebel 1105
+  site: ''
+  members: []
+  email: ''
+
 - name: SIGMobile
-  description: Special Interst Group for Mobile Development
+  description: Special Interest Group for Mobile Development
   chairs: Patrick Feltes
-  meetingTime: 'TBA'
-  meetingDay: TBA
-  meetingLoc: TBA
+  meetingTime: '5:00 PM - 6:00 PM'
+  meetingDay: Wednesday
+  meetingLoc: Siebel 1131
   site: 'http://github.com/SIGMobileUIUC'
   members: []
   email: 'SIGMobile-l@acm.illinois.edu'
 
 - name: SIGMusic
   description: Special Interest Group for Music
-  chairs: Sahil Patel, Melissa Chen
-  meetingTime: 'TBA'
-  meetingDay: TBA
-  meetingLoc: TBA
+  chairs: Melissa Chen, Sahil Patel
+  meetingTime: '6:00 PM - 7:00 PM'
+  meetingDay: Thursday
+  meetingLoc: Siebel 1103
   site: 'http://www.acm.illinois.edu/sigmusic'
   members: []
   email: 'SIGMusic-l@acm.illinois.edu'
@@ -103,9 +113,9 @@
 - name: SIGPwny
   description: Special Interest Group for Security
   chairs: Joseph Ravichandran
-  meetingTime: 'TBA'
-  meetingDay: TBA
-  meetingLoc: TBA
+  meetingTime: '6:00 PM - 7:00 PM'
+  meetingDay: Thursday
+  meetingLoc: TBD
   site: 'https://sigpwny.com'
   members: []
   email: 'SIGPony-l@acm.illinois.edu'
@@ -113,9 +123,9 @@
 - name: Webmonkeys
   description: Special Interest Group for Web Development
   chairs: Satvik Sethia
-  meetingTime: 'TBA'
-  meetingDay: TBA
-  meetingLoc: TBA
+  meetingTime: 'TBD'
+  meetingDay: TBD
+  meetingLoc: TBD
   site: 'http://www.acm.illinois.edu/webmonkeys'
   members: []
   email: 'Webmonkeys-l@acm.illinois.edu'
@@ -123,19 +133,19 @@
 - name: SIGNLL
   description: Special Interest Group for Natural Language Learning
   chairs: Jackie Oh, Jason Xia
-  meetingTime: 'TBA'
-  meetingDay: TBA
-  meetingLoc: TBA
+  meetingTime: '5:00 PM - 6:00 PM'
+  meetingDay: Wednesday
+  meetingLoc: Siebel 1214
   site: 'https://www.facebook.com/groups/uiucsignll'
   members: []
   email: 'SIGIR-l@acm.illinois.edu'
 
 - name: SIGArch
   description: Special Interest Group for Architecture
-  chairs: Lucas Hsiung, Evan Lissoos, Nick Horcher
-  meetingTime: 'TBA'
-  meetingDay: TBA
-  meetingLoc: TBA
+  chairs: Kris Koepcke
+  meetingTime: '5:00 PM - 6:00 PM'
+  meetingDay: Monday
+  meetingLoc: Siebel 1131
   site: ''
   members: []
   email: 'SIGArch-l@acm.illinois.edu'
@@ -143,19 +153,9 @@
 - name: SIGPlan
   description: Special Interest Group for Programming Languages
   chairs: Reed Oei
-  meetingTime: 'TBA'
-  meetingDay: TBA
-  meetingLoc: TBA
-  site: ''
-  members: []
-  email: ''
-
-- name: SIGQuantum
-  description: Special Interest Group for Quantum Computing
-  chairs: Bailey Tincher
-  meetingTime: 'TBA'
-  meetingDay: TBA
-  meetingLoc: TBA
+  meetingTime: '4:00 PM - 5:00 PM'
+  meetingDay: Sunday
+  meetingLoc: Siebel 2407
   site: ''
   members: []
   email: ''
