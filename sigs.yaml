@@ -32,13 +32,13 @@
 
 - name: SIGAI
   description: Special Interest Group for Artificial Intelligence
-  chairs: Erik Hernandez, Jeffrey Lai, Arjun Gupta
-  meetingTime: '7pm-9pm'
+  chairs: Jeffrey Lai, Arjun Gupta, Michael McGuire
+  meetingTime: '5pm-7pm'
   meetingDay: 'Monday, Wednesday'
   meetingLoc: 'Siebel 1109'
-  site: https://sigai.ml
+  site: ''
   members: []
-  email: SIGArt-l@acm.illinois.edu
+  email: 'mlm3@illinois.edu'
 
 - name: SIGBot
   description: Special Interest Group for Robotics
