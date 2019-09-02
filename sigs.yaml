@@ -33,12 +33,12 @@
 - name: SIGAI
   description: Special Interest Group for Artificial Intelligence
   chairs: Erik Hernandez, Jeffrey Lai, Arjun Gupta
-  meetingTime: '7pm-9pm'
+  meetingTime: '5pm-7pm'
   meetingDay: 'Monday, Wednesday'
   meetingLoc: 'Siebel 1109'
   site: https://sigai.ml
   members: []
-  email: SIGArt-l@acm.illinois.edu
+  email: ''
 
 - name: SIGBot
   description: Special Interest Group for Robotics
@@ -58,7 +58,7 @@
   meetingLoc: Siebel 2102
   site: http://www.acm.illinois.edu/sigchi
   members: []
-  email: SIGCHI-l@acm.illinois.edu
+  email: ''
 
 - name: SIGGRAPH
   description: Special Interest Group for Graphics
@@ -98,7 +98,7 @@
   meetingLoc: Siebel 1131
   site: 'http://github.com/SIGMobileUIUC'
   members: []
-  email: 'SIGMobile-l@acm.illinois.edu'
+  email: ''
 
 - name: SIGMusic
   description: Special Interest Group for Music
@@ -108,7 +108,7 @@
   meetingLoc: Siebel 1103
   site: 'http://www.acm.illinois.edu/sigmusic'
   members: []
-  email: 'SIGMusic-l@acm.illinois.edu'
+  email: ''
 
 - name: SIGPwny
   description: Special Interest Group for Security
@@ -118,7 +118,7 @@
   meetingLoc: TBD
   site: 'https://sigpwny.com'
   members: []
-  email: 'SIGPony-l@acm.illinois.edu'
+  email: ''
 
 - name: Webmonkeys
   description: Special Interest Group for Web Development
@@ -128,7 +128,7 @@
   meetingLoc: TBD
   site: 'http://www.acm.illinois.edu/webmonkeys'
   members: []
-  email: 'Webmonkeys-l@acm.illinois.edu'
+  email: ''
 
 - name: SIGNLL
   description: Special Interest Group for Natural Language Learning
@@ -138,7 +138,7 @@
   meetingLoc: Siebel 1214
   site: 'https://www.facebook.com/groups/uiucsignll'
   members: []
-  email: 'SIGIR-l@acm.illinois.edu'
+  email: ''
 
 - name: SIGArch
   description: Special Interest Group for Architecture
@@ -148,7 +148,7 @@
   meetingLoc: Siebel 1131
   site: ''
   members: []
-  email: 'SIGArch-l@acm.illinois.edu'
+  email: ''
 
 - name: SIGPlan
   description: Special Interest Group for Programming Languages
@@ -156,6 +156,16 @@
   meetingTime: '4:00 PM - 5:00 PM'
   meetingDay: Sunday
   meetingLoc: Siebel 2407
+  site: ''
+  members: []
+  email: ''
+
+- name: SIGBlockchain
+  description: Special Interest Group for Crypto and Blockchain
+  chairs: Jason Maldonado, David Deborin
+  meetingTime: 'TBD'
+  meetingDay: TBD
+  meetingLoc: TBD
   site: ''
   members: []
   email: ''
