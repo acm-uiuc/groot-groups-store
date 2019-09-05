@@ -133,12 +133,12 @@
 - name: SIGNLL
   description: Special Interest Group for Natural Language Learning
   chairs: Jackie Oh, Jason Xia
-  meetingTime: '5:00 PM - 6:00 PM'
+  meetingTime: '5:30 PM - 6:30 PM'
   meetingDay: Wednesday
   meetingLoc: Siebel 1214
   site: 'https://www.facebook.com/groups/uiucsignll'
   members: []
-  email: 'SIGIR-l@acm.illinois.edu'
+  email: ''
 
 - name: SIGArch
   description: Special Interest Group for Architecture
