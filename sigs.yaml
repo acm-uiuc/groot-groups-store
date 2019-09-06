@@ -58,17 +58,17 @@
   meetingLoc: Siebel 2102
   site: http://www.acm.illinois.edu/sigchi
   members: []
-  email: SIGCHI-l@acm.illinois.edu
+  email: 
 
 - name: SIGGRAPH
   description: Special Interest Group for Graphics
   chairs: Chen Qian
   meetingTime: '2:00 PM - 4:00 PM'
   meetingDay: Saturday
-  meetingLoc: TBD
+  meetingLoc: ACM Office (tentative-TBD)
   site: 'http://illinois.siggraph.org/'
   members: []
-  email: 'SIGGRAPH-Announce@acm.illinois.edu'
+  email: 
 
 - name: ADSA
   description: Association of Data Science and Analytics
@@ -98,7 +98,7 @@
   meetingLoc: Siebel 1131
   site: 'http://github.com/SIGMobileUIUC'
   members: []
-  email: 'SIGMobile-l@acm.illinois.edu'
+  email: 
 
 - name: SIGMusic
   description: Special Interest Group for Music
@@ -108,7 +108,7 @@
   meetingLoc: Siebel 1103
   site: 'http://www.acm.illinois.edu/sigmusic'
   members: []
-  email: 'SIGMusic-l@acm.illinois.edu'
+  email: 'myc2@illinois.edu'
 
 - name: SIGPwny
   description: Special Interest Group for Security
@@ -118,7 +118,7 @@
   meetingLoc: TBD
   site: 'https://sigpwny.com'
   members: []
-  email: 'SIGPony-l@acm.illinois.edu'
+  email: 'jpr3@illinois.edu'
 
 - name: Webmonkeys
   description: Special Interest Group for Web Development
@@ -128,7 +128,7 @@
   meetingLoc: Siebel 1131
   site: 'http://www.acm.illinois.edu/webmonkeys'
   members: []
-  email: 'Webmonkeys-l@acm.illinois.edu'
+  email: 
 
 - name: SIGNLL
   description: Special Interest Group for Natural Language Learning
@@ -138,7 +138,7 @@
   meetingLoc: Siebel 1214
   site: 'https://www.facebook.com/groups/uiucsignll'
   members: []
-  email: ''
+  email: 'jmoh3@illinois.edu'
 
 - name: SIGArch
   description: Special Interest Group for Architecture
@@ -148,7 +148,7 @@
   meetingLoc: Siebel 1131
   site: ''
   members: []
-  email: 'SIGArch-l@acm.illinois.edu'
+  email: 
 
 - name: SIGPlan
   description: Special Interest Group for Programming Languages
