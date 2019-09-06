@@ -58,7 +58,7 @@
   meetingLoc: Siebel 2102
   site: http://www.acm.illinois.edu/sigchi
   members: []
-  email: 
+  email:
 
 - name: SIGGRAPH
   description: Special Interest Group for Graphics
@@ -68,7 +68,7 @@
   meetingLoc: ACM Office (tentative-TBD)
   site: 'http://illinois.siggraph.org/'
   members: []
-  email: 
+  email:
 
 - name: ADSA
   description: Association of Data Science and Analytics
@@ -98,7 +98,7 @@
   meetingLoc: Siebel 1131
   site: 'http://github.com/SIGMobileUIUC'
   members: []
-  email: 
+  email:
 
 - name: SIGMusic
   description: Special Interest Group for Music
@@ -128,7 +128,7 @@
   meetingLoc: Siebel 1131
   site: 'http://www.acm.illinois.edu/webmonkeys'
   members: []
-  email: 
+  email:
 
 - name: SIGNLL
   description: Special Interest Group for Natural Language Learning
@@ -148,7 +148,7 @@
   meetingLoc: Siebel 1131
   site: ''
   members: []
-  email: 
+  email:
 
 - name: SIGPlan
   description: Special Interest Group for Programming Languages
