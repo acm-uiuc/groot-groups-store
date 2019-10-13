@@ -65,10 +65,10 @@
   chairs: Chen Qian
   meetingTime: '2:00 PM - 4:00 PM'
   meetingDay: Saturday
-  meetingLoc: ACM Office (tentative-TBD)
-  site: 'http://illinois.siggraph.org/'
+  meetingLoc: Siebel 3403
+  site: 'https://acm-uiuc.github.io/siggraph/'
   members: []
-  email:
+  email: 'siggraphuiuc@gmail.com'
 
 - name: ADSA
   description: Association of Data Science and Analytics
