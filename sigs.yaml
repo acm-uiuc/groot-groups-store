@@ -7,7 +7,7 @@
   meetingLoc: Siebel 3405
   site: http://gamebuilders.acm.illinois.edu/
   members: []
-  email: Gamebuilders@acm.illinois.edu
+  email: 'adityab2@illinois.edu'
 
 - name: GLUG
   description: GNU/Linux Users Group
@@ -17,7 +17,7 @@
   meetingLoc: Siebel 1103
   site: http://www.gnulug.org/
   members: []
-  email: glug@acm.illinois.edu
+  email: 'glug@acm.illinois.edu'
 
 - name: ICPC
   description: Facilitate the development of contest programming skills, with the
@@ -28,7 +28,7 @@
   meetingLoc: Siebel 1214
   site: " http://icpc.cs.illinois.edu/"
   members: []
-  email: icpc@cs.illinois.edu
+  email: 'icpc@cs.illinois.edu'
 
 - name: SIGAI
   description: Special Interest Group for Artificial Intelligence
@@ -48,7 +48,7 @@
   meetingLoc: Siebel 1104
   site: http://illinoisauv.com/
   members: []
-  email: "SIGBot@acm.illinois.edu"
+  email: "ananmay3@illinois.edu"
 
 - name: SIGCHI
   description: Special Interest Group for Human-Computer Interaction.
@@ -58,7 +58,7 @@
   meetingLoc: Siebel 2102
   site: http://sigchi.acm.illinois.edu/
   members: []
-  email:
+  email: 'jeffrey5@illinois.edu'
 
 - name: SIGGRAPH
   description: Special Interest Group for Graphics
@@ -98,7 +98,7 @@
   meetingLoc: Siebel 1131
   site: 'http://github.com/SIGMobileUIUC'
   members: []
-  email:
+  email: 'pfeltes2@illinois.edu'
 
 - name: SIGMusic
   description: Special Interest Group for Music
@@ -128,7 +128,7 @@
   meetingLoc: Siebel 1131
   site: 'http://webmonkeys.acm.illinois.edu'
   members: []
-  email:
+  email: 'ssethia2@illinois.edu'
 
 - name: SIGNLL
   description: Special Interest Group for Natural Language Learning
@@ -148,7 +148,7 @@
   meetingLoc: Siebel 1131
   site: ''
   members: []
-  email:
+  email: 'koepcke2@illinois.edu'
 
 - name: SIGPlan
   description: Special Interest Group for Programming Languages
@@ -158,4 +158,4 @@
   meetingLoc: Siebel 2407
   site: ''
   members: []
-  email: ''
+  email: 'reedoei2@illinois.edu'
