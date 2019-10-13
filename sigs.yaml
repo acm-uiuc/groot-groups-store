@@ -5,7 +5,7 @@
   meetingTime: '7:00 PM - 8:30 PM'
   meetingDay: Monday
   meetingLoc: Siebel 3405
-  site: http://www.acm.illinois.edu/gamebuilders/
+  site: http://gamebuilders.acm.illinois.edu/
   members: []
   email: Gamebuilders@acm.illinois.edu
 
@@ -56,7 +56,7 @@
   meetingTime: '5:00 PM - 7:00 PM'
   meetingDay: Wednesday
   meetingLoc: Siebel 2102
-  site: http://www.acm.illinois.edu/sigchi
+  site: http://sigchi.acm.illinois.edu/
   members: []
   email:
 
@@ -106,7 +106,7 @@
   meetingTime: '6:00 PM - 7:00 PM'
   meetingDay: Thursday
   meetingLoc: Siebel 1103
-  site: 'https://sigmusic.acm.illinois.edu'
+  site: 'http://sigmusic.acm.illinois.edu'
   members: []
   email: 'myc2@illinois.edu'
 
@@ -126,7 +126,7 @@
   meetingTime: '6:00 PM - 7:00 PM'
   meetingDay: Thursday
   meetingLoc: Siebel 1131
-  site: 'http://www.acm.illinois.edu/webmonkeys'
+  site: 'http://webmonkeys.acm.illinois.edu'
   members: []
   email:
 
