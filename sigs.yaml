@@ -106,7 +106,7 @@
   meetingTime: '6:00 PM - 7:00 PM'
   meetingDay: Thursday
   meetingLoc: Siebel 1103
-  site: 'http://www.acm.illinois.edu/sigmusic'
+  site: 'https://sigmusic.acm.illinois.edu'
   members: []
   email: 'myc2@illinois.edu'
 
