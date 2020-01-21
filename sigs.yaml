@@ -63,7 +63,7 @@
 - name: SIG AIDA
   description: Artificial Intelligence and Data Analytics
   chairs: Jeffrey Lai, Arjun Gupta, Shaw Kagawa
-  meetingTime: '2:00 PM - 6:00 PM'
+  meetingTime: '1:00 PM - 4:00 PM'
   meetingDay: Sunday
   meetingLoc: Siebel 1105
   site: 'aida.acm.illinois.edu'
@@ -72,8 +72,8 @@
 
 - name: QUIUC
   description: Special Interest Group for Quantum Computing
-  chairs: Bailey Tincher
-  meetingTime: '1:00 PM - 5:00 PM'
+  chairs: Bailey Tincher, Graeme Jacobson
+  meetingTime: '2:00 PM - 3:00 PM'
   meetingDay: Sunday
   meetingLoc: Siebel 1103
   site: 'https://www.quiuc.org'
