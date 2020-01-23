@@ -30,16 +30,6 @@
   members: []
   email: 'icpc@cs.illinois.edu'
 
-- name: SIGAI
-  description: Special Interest Group for Artificial Intelligence
-  chairs: Jeffrey Lai, Arjun Gupta, Michael McGuire
-  meetingTime: '5pm-7pm'
-  meetingDay: 'Monday, Wednesday'
-  meetingLoc: 'Siebel 1109'
-  site: ''
-  members: []
-  email: 'mlm3@illinois.edu'
-
 - name: SIGBot
   description: Special Interest Group for Robotics
   chairs: Ananmay Jain
@@ -70,22 +60,22 @@
   members: []
   email: 'siggraphuiuc@gmail.com'
 
-- name: ADSA
-  description: Association of Data Science and Analytics
-  chairs: Bailey Tincher
-  meetingTime: '2:00 PM - 6:00 PM'
+- name: SIG AIDA
+  description: Artificial Intelligence and Data Analytics
+  chairs: Jeffrey Lai, Arjun Gupta, Shaw Kagawa
+  meetingTime: '1:00 PM - 4:00 PM'
   meetingDay: Sunday
-  meetingLoc: Siebel 1109
-  site: 'adsa.cs.illinois.edu'
+  meetingLoc: Siebel 1105
+  site: 'aida.acm.illinois.edu'
   members: []
-  email: 'general.adsa@gmail.com'
+  email: 'sig-aida@lists.illinois.edu'
 
 - name: QUIUC
   description: Special Interest Group for Quantum Computing
-  chairs: Bailey Tincher
-  meetingTime: '1:00 PM - 5:00 PM'
+  chairs: Bailey Tincher, Graeme Jacobson
+  meetingTime: '2:00 PM - 3:00 PM'
   meetingDay: Sunday
-  meetingLoc: Siebel 1105
+  meetingLoc: Siebel 1103
   site: 'https://www.quiuc.org'
   members: []
   email: 'info@quiuc.org'
