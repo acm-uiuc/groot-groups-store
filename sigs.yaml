@@ -12,9 +12,9 @@
 - name: GLUG
   description: GNU/Linux Users Group
   chairs: Jav Mohamed
-  meetingTime: '6:00 PM - 7:00 PM'
-  meetingDay: Wednesday
-  meetingLoc: Siebel 1103
+  meetingTime: '5:00 PM - 6:00 PM'
+  meetingDay: Thursday
+  meetingLoc: Siebel 1109
   site: http://www.gnulug.org/
   members: []
   email: 'glug@acm.illinois.edu'
@@ -22,10 +22,10 @@
 - name: ICPC
   description: Facilitate the development of contest programming skills, with the
     goal of producing highly competitive teams in the prestigious ACM ICPC competition.
-  chairs: Scott Kim
+  chairs: Wei-Chen Wang
   meetingTime: '7:00 PM - 9:00 PM'
-  meetingDay: Wednesday
-  meetingLoc: Siebel 1214
+  meetingDay: Tuesday
+  meetingLoc: Siebel 1109
   site: " http://icpc.cs.illinois.edu/"
   members: []
   email: 'icpc@cs.illinois.edu'
@@ -44,8 +44,8 @@
   description: Special Interest Group for Human-Computer Interaction.
   chairs: Jeffrey Tsai
   meetingTime: '5:00 PM - 7:00 PM'
-  meetingDay: Wednesday
-  meetingLoc: Siebel 2102
+  meetingDay: Tuesday
+  meetingLoc: Siebel 1304
   site: http://sigchi.acm.illinois.edu/
   members: []
   email: 'jeffrey5@illinois.edu'
@@ -53,9 +53,9 @@
 - name: SIGGRAPH
   description: Special Interest Group for Graphics
   chairs: Chen Qian
-  meetingTime: '2:00 PM - 4:00 PM'
-  meetingDay: Saturday
-  meetingLoc: Siebel 3403
+  meetingTime: '6:00 PM - 7:00 PM'
+  meetingDay: Monday
+  meetingLoc: Siebel 3401
   site: 'https://acm-uiuc.github.io/siggraph/'
   members: []
   email: 'siggraphuiuc@gmail.com'
@@ -80,12 +80,22 @@
   members: []
   email: 'info@quiuc.org'
 
+- name: SIG Ops
+  description: Special Interest Group for Operating Systems
+  chairs: Anshul Sanamvenkata
+  meetingTime: '12:00 PM - 2:00 PM'
+  meetingDay: Saturday
+  meetingLoc: Siebel 1302
+  site: ''
+  members: []
+  email: 'anshul2@illinois.edu'
+
 - name: SIGMobile
   description: Special Interest Group for Mobile Development
   chairs: Patrick Feltes
   meetingTime: '5:00 PM - 6:00 PM'
-  meetingDay: Wednesday
-  meetingLoc: Siebel 1131
+  meetingDay: Monday
+  meetingLoc: Siebel 1214
   site: 'http://github.com/SIGMobileUIUC'
   members: []
   email: 'pfeltes2@illinois.edu'
@@ -95,7 +105,7 @@
   chairs: Melissa Chen, Sahil Patel
   meetingTime: '6:00 PM - 7:00 PM'
   meetingDay: Thursday
-  meetingLoc: Siebel 1103
+  meetingLoc: Siebel 1109
   site: 'http://sigmusic.acm.illinois.edu'
   members: []
   email: 'myc2@illinois.edu'
@@ -110,15 +120,15 @@
   members: []
   email: 'jpr3@illinois.edu'
 
-- name: Webmonkeys
-  description: Special Interest Group for Web Development
-  chairs: Satvik Sethia
-  meetingTime: '6:00 PM - 7:00 PM'
-  meetingDay: Thursday
-  meetingLoc: Siebel 1131
-  site: 'http://webmonkeys.acm.illinois.edu'
+- name: SIG Blockchain
+  description: Special Interest Group for Blockchain Technologies
+  chairs: Jason Maldonado
+  meetingTime: '5:00 PM - 6:00 PM'
+  meetingDay: Wednesday
+  meetingLoc: Siebel 1302
+  site: ''
   members: []
-  email: 'ssethia2@illinois.edu'
+  email: 'jmaldo2@illinois.edu'
 
 - name: SIGNLL
   description: Special Interest Group for Natural Language Learning
@@ -133,9 +143,9 @@
 - name: SIGArch
   description: Special Interest Group for Architecture
   chairs: Kris Koepcke
-  meetingTime: '5:00 PM - 6:00 PM'
-  meetingDay: Monday
-  meetingLoc: Siebel 1131
+  meetingTime: '6:00 PM - 7:00 PM'
+  meetingDay: Tuesday
+  meetingLoc: Siebel 1214
   site: ''
   members: []
   email: 'koepcke2@illinois.edu'
