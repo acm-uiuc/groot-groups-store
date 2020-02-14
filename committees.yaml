@@ -33,7 +33,7 @@
     maintenance of ACM resources, service and support to the ACM users, and coordination and
     communication between ACM and campus technology management groups such as Engineering IT and
     Technology Services.
-  chairs: Aashish Kapur
+  chairs: Evan Widloski
   members:
     - Aashish Kapur
     - Rauhul Varma
@@ -79,7 +79,7 @@
     - sdesai51
     - trishul2
     - vivekg2
-  email: Corporate-l@acm.illinois.edu
+  email: corporate@acm.illinois.edu
 
 - name: Events
   description: ACM runs the Reflections | Projections and HackIllinois events every year.
@@ -102,7 +102,7 @@
       holder: Melissa Chen, Sathwik Pochampally
       email: contact@hackillinois.org
     - name: Chairs of Reflections|Projections
-      holder: Saksham Gupta, Ziv Kaputa
+      holder: Sam Pal, Aaron Aftab
       email: conference@acm.illinois.edu
 
 - name: Projects
@@ -141,4 +141,4 @@
     - Nathaniel Cohen
   netids:
     - njcohen2
-  email: Social-l@acm.illinois.edu
+  email: njcohen2@illinois.edu
