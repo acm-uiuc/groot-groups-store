@@ -82,11 +82,11 @@
 
 - name: SIG Ops
   description: Special Interest Group for Operating Systems
-  chairs: Anshul Sanamvenkata
+  chairs: Anshul Sanamvenkata, Chinmaya Mahesh, Kapil Kanwar
   meetingTime: '12:00 PM - 2:00 PM'
   meetingDay: Saturday
   meetingLoc: Siebel 1302
-  site: ''
+  site: 'http://sigops.acm.illinois.edu'
   members: []
   email: 'anshul2@illinois.edu'
 
